@@ -1,0 +1,210 @@
+{
+    "type": "object",
+    "title": "Patient Data",
+    "required": [
+        "id",
+        "birth_date",
+        "ssn",
+        "prefix",
+        "first_name",
+        "last_name",
+        "maiden_name",
+        "race",
+        "ethnicity",
+        "gender",
+        "birthplace",
+        "address",
+        "city",
+        "state",
+        "zip"
+    ],
+    "properties": {
+        "id": {
+            "type": "string",
+            "default": "",
+            "format": "uuid",
+            "title": "The id Schema",
+            "examples": [
+                "b9c610cd-28a6-4636-ccb6-c7a0d2a4cb85"
+            ]
+        },
+        "birth_date": {
+            "type": "string",
+            "default": "",
+            "format": "date",
+            "title": "The birth_date Schema",
+            "examples": [
+                "2019-02-17"
+            ]
+        },
+        "death_date": {
+            "type": "string",
+            "default": "",
+            "format": "date",
+            "title": "The death_date Schema",
+            "examples": [
+                "2024-03-14"
+            ]
+        },
+        "ssn": {
+            "type": "string",
+            "default": "",
+            "title": "The ssn Schema",
+            "examples": [
+                "999-65-3251"
+            ]
+        },
+        "drivers": {
+            "type": "string",
+            "default": "",
+            "title": "The drivers Schema",
+            "examples": [
+                ""
+            ]
+        },
+        "passport": {
+            "type": "string",
+            "default": "",
+            "title": "The passport Schema",
+            "examples": [
+                ""
+            ]
+        },
+        "prefix": {
+            "type": "string",
+            "default": "",
+            "title": "The prefix Schema",
+            "examples": [
+                "Mr."
+            ]
+        },
+        "first_name": {
+            "type": "string",
+            "default": "",
+            "title": "The first_name Schema",
+            "examples": [
+                "Damon"
+            ]
+        },
+        "last_name": {
+            "type": "string",
+            "default": "",
+            "title": "The last_name Schema",
+            "examples": [
+                "Langosh"
+            ]
+        },
+        "suffix": {
+            "type": "string",
+            "default": "",
+            "title": "The suffix Schema",
+            "examples": [
+                ""
+            ]
+        },
+        "maiden_name": {
+            "type": "string",
+            "default": "",
+            "title": "The maiden_name Schema",
+            "examples": [
+                ""
+            ]
+        },
+        "marital_status": {
+            "type": "string",
+            "default": "",
+            "title": "The marital_status Schema",
+            "examples": [
+                ""
+            ]
+        },
+        "race": {
+            "type": "string",
+            "default": "",
+            "title": "The race Schema",
+            "examples": [
+                "white"
+            ]
+        },
+        "ethnicity": {
+            "type": "string",
+            "default": "",
+            "title": "The ethnicity Schema",
+            "examples": [
+                "nonhispanic"
+            ]
+        },
+        "gender": {
+            "type": "string",
+            "default": "",
+            "title": "The gender Schema",
+            "examples": [
+                "M"
+            ]
+        },
+        "birthplace": {
+            "type": "string",
+            "default": "",
+            "title": "The birthplace Schema",
+            "examples": [
+                "Middleborough  Massachusetts  US"
+            ]
+        },
+        "address": {
+            "type": "string",
+            "default": "",
+            "title": "The address Schema",
+            "examples": [
+                "620 Lynch Tunnel Apt 0"
+            ]
+        },
+        "city": {
+            "type": "string",
+            "default": "",
+            "title": "The city Schema",
+            "examples": [
+                "Springfield"
+            ]
+        },
+        "state": {
+            "type": "string",
+            "default": "",
+            "title": "The state Schema",
+            "examples": [
+                "Massachusetts"
+            ]
+        },
+        "zip": {
+            "type": "number",
+            "default": 0,
+            "minimum": 0,
+            "maximum": 99999,
+            "title": "The zip Schema",
+            "examples": [
+                1104
+            ]
+        }
+    },
+    "examples": [{
+        "id": "b9c610cd-28a6-4636-ccb6-c7a0d2a4cb85",
+        "birth_date": "2019-02-17",
+        "death_date": "",
+        "ssn": "999-65-3251",
+        "drivers": "",
+        "passport": "",
+        "prefix": "",
+        "first_name": "Damon",
+        "last_name": "Langosh",
+        "suffix": "",
+        "maiden_name": "",
+        "marital_status": "",
+        "race": "white",
+        "ethnicity": "nonhispanic",
+        "gender": "M",
+        "birthplace": "Middleborough  Massachusetts  US",
+        "address": "620 Lynch Tunnel Apt 0",
+        "city": "Springfield",
+        "state": "Massachusetts",
+        "zip": 1104
+    }]
+}

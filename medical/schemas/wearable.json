@@ -1,0 +1,137 @@
+{
+    "type": "object",
+    "required": [
+        "id",
+        "person",
+        "date",
+        "exercise_mins",
+        "steps",
+        "glucose_avg",
+        "respiration_avg",
+        "hr_avg",
+        "hrv_avg",
+        "asleep_time",
+        "rem_time",
+        "deep_time",
+        "awake_time",
+        "stress"
+    ],
+    "properties": {
+        "id": {
+            "type": "string",
+            "examples": [
+                "1"
+            ]
+        },
+        "person": {
+            "type": "string",
+            "format": "uuid",
+            "examples": [
+                "b9c610cd-28a6-4636-ccb6-c7a0d2a4cb85"
+            ]
+        },
+        "date": {
+            "type": "string",
+            "format": "date-time",
+            "examples": [
+                "2023-01-01 0:00:00"
+            ]
+        },
+        "exercise_mins": {
+            "type": "number",
+            "minimum": 0,
+            "maximum": 1440,
+            "examples": [
+                15
+            ]
+        },
+        "steps": {
+            "type": "number",
+            "minimum": 0,
+            "maximum": 20000,
+            "examples": [
+                4942
+            ]
+        },
+        "glucose_avg": {
+            "type": "number",
+            "minimum": 0,
+            "maximum": 20000,
+            "examples": [
+                99
+            ]
+        },
+        "respiration_avg": {
+            "type": "number",
+            "minimum": 0,
+            "maximum": 150,
+            "examples": [
+                12
+            ]
+        },
+        "hr_avg": {
+            "type": "number",
+            "minimum": 0,
+            "maximum": 100,
+            "examples": [
+                61
+            ]
+        },
+        "hrv_avg": {
+            "type": "number",
+            "minimum": 0,
+            "maximum": 100,
+            "examples": [
+                72
+            ]
+        },
+        "asleep_time": {
+            "type": "string",
+            "examples": [
+                "4.22"
+            ]
+        },
+        "rem_time": {
+            "type": "string",
+            "examples": [
+                "0.55"
+            ]
+        },
+        "deep_time": {
+            "type": "string",
+            "examples": [
+                "0.65"
+            ]
+        },
+        "awake_time": {
+            "type": "string",
+            "examples": [
+                "0.82"
+            ]
+        },
+        "stress": {
+            "type": "number",
+            "minimum": 0,
+            "maximum": 10,
+            "examples": [
+                2
+            ]
+        }
+    },
+    "examples": [{
+        "id": "1",
+        "person": "b9c610cd-28a6-4636-ccb6-c7a0d2a4cb85",
+        "date": "2023-01-01 0:00:00",
+        "exercise_mins": "15",
+        "steps": "4942",
+        "glucose_avg": "99",
+        "respiration_avg": "12",
+        "hr_avg": "61",
+        "hrv_avg": "72",
+        "asleep_time": "4.22",
+        "rem_time": "0.55",
+        "deep_time": "0.65",
+        "awake_time": "0.82",
+        "stress": "2"
+    }]
+}

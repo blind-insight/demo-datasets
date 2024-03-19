@@ -1,0 +1,52 @@
+{
+    "type": "object",
+    "required": [
+        "start_date",
+        "person",
+        "encounter",
+        "code",
+        "description",
+        "base_cost",
+        "dispenses",
+        "total_cost"
+    ],
+    "properties": {
+        "start_date": {
+            "type": "string",
+            "format": "date"
+        },
+        "stop_date": {
+            "type": "string",
+            "format": "date"
+        },
+        "person": {
+            "type": "string",
+            "format": "uuid"
+        },
+        "encounter": {
+            "type": "string",
+            "format": "uuid"
+        },
+        "code": {
+            "type": "string"
+        },
+        "description": {
+            "type": "string"
+        },
+        "base_cost": {
+            "type": "string"
+        },
+        "dispenses": {
+            "type": "string"
+        },
+        "total_cost": {
+            "type": "string"
+        },
+        "reason_code": {
+            "type": "string"
+        },
+        "reason_description": {
+            "type": "string"
+        }
+    }
+}
