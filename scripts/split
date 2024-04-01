@@ -1,0 +1,45 @@
+#!/usr/bin/env python
+
+import json
+import os
+import sys
+
+
+def main(filename: str, dest: str):
+    print(f"Splitting {filename}...")
+    path = os.path.abspath(filename)
+    dest = os.path.abspath(dest)
+
+    with open(path) as f:
+        data = json.load(f)
+
+    def split(items, count):
+        pos = 0
+        while items[pos : pos + count]:
+            yield items[pos : pos + count]
+            pos += count
+
+    print(f"Loaded {len(data)} records")
+    out = os.path.dirname(filename)
+    out = os.path.join(dest, out)
+    out = os.path.abspath(out)
+    os.makedirs(out, exist_ok=True)
+    fname = os.path.basename(filename).split(".")[0]
+
+    num = 0
+    for records in split(data, 100):
+        target = os.path.join(out, f"{fname}_{num}.json")
+        print(f"{len(records)=} {target=}")
+        num += 1
+        with open(target, "w") as f:
+            json.dump(records, f)
+
+    print("done")
+
+
+if __name__ == "__main__":
+    if len(sys.argv) != 3:
+        print("Usage: split <filename> <destination>")
+        sys.exit(1)
+
+    main(*sys.argv[1:3])
