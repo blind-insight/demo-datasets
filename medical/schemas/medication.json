@@ -13,11 +13,11 @@
     "properties": {
         "start_date": {
             "type": "string",
-            "format": "date"
+            "format": "date-time"
         },
         "stop_date": {
             "type": "string",
-            "format": "date"
+            "format": "date-time"
         },
         "person": {
             "type": "string",
@@ -37,7 +37,9 @@
             "type": "string"
         },
         "dispenses": {
-            "type": "string"
+            "type": "number",
+            "minimum": 0,
+            "maximum": 9999
         },
         "total_cost": {
             "type": "string"

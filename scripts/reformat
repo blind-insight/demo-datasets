@@ -11,7 +11,7 @@ def main(filename: str):
     path = os.path.abspath(filename)
 
     with open(path) as f:
-        data = json.load(f)    
+        data = json.load(f)
 
     new_data = []
     for row in data:
