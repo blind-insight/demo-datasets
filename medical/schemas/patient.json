@@ -2,7 +2,7 @@
     "type": "object",
     "title": "Patient Data",
     "required": [
-        "id",
+        "patient_id",
         "birth_date",
         "ssn",
         "prefix",
@@ -19,7 +19,7 @@
         "zip"
     ],
     "properties": {
-        "id": {
+        "patient_id": {
             "type": "string",
             "default": "",
             "format": "uuid",
