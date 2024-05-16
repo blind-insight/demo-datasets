@@ -30,7 +30,7 @@ Therefore you can use the `blind` CLI to easily create a dataset from the top-le
 Hint: For this example, the Organization slug is `example`.
 
 ```bash
-blind dataset create --organization example --name medical`
+blind dataset create --organization example --name medical
 ```
 
 And then for each dataset, you can create each schema
