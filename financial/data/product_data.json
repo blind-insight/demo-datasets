@@ -1,2702 +1,2702 @@
 [
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
+            "name": "Radiant Glow Serum",
             "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "size": "1 oz.",
+            "price": 10,
+            "product_id": "b62b8dea-d7fb-4cb9-91a7-0fd5a6b2ba3d"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
+            "name": "Radiant Glow Serum",
             "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "size": "2 oz.",
+            "price": 15,
+            "product_id": "ff2b35fb-a567-4b5f-aefa-164db220b10b"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
+            "name": "Radiant Glow Serum",
             "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
             "size": "4 oz.",
-            "price": 25
+            "price": 25,
+            "product_id": "d534f31e-c9e6-4c1e-a97a-7af21860c490"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Pure Hydration Cream",
+            "category": "Moisturizer",
+            "size": "1 oz.",
+            "price": 10,
+            "product_id": "bcdf8f72-f45d-45d6-8601-0830bae61c31"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Pure Hydration Cream",
+            "category": "Moisturizer",
+            "size": "2 oz.",
+            "price": 15,
+            "product_id": "863dc389-d580-4847-87b0-b973ae824091"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
+            "name": "Pure Hydration Cream",
+            "category": "Moisturizer",
             "size": "4 oz.",
-            "price": 25
+            "price": 25,
+            "product_id": "784b816c-c82f-4c77-9d0c-1e8503f5c76b"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Renewal Night Mask",
+            "category": "Mask",
+            "size": "1 oz.",
+            "price": 10,
+            "product_id": "c44bf400-b094-48e5-a643-3ad08a1d1927"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Renewal Night Mask",
+            "category": "Mask",
+            "size": "2 oz.",
+            "price": 15,
+            "product_id": "99781cf1-feee-4c91-a89b-305539ae36d9"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
+            "name": "Renewal Night Mask",
+            "category": "Mask",
             "size": "4 oz.",
-            "price": 25
+            "price": 25,
+            "product_id": "c55bf0f5-67a4-49ba-9de1-716264a6b799"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Youthful Essence Oil",
+            "category": "Oil",
+            "size": "1 oz.",
+            "price": 10,
+            "product_id": "043ce920-793a-4912-bee1-0f7e5774ab0a"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Youthful Essence Oil",
+            "category": "Oil",
+            "size": "2 oz.",
+            "price": 15,
+            "product_id": "8a9e4e35-3960-4bcb-836a-5ffe0511a7c3"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
+            "name": "Youthful Essence Oil",
+            "category": "Oil",
             "size": "4 oz.",
-            "price": 25
+            "price": 25,
+            "product_id": "08bb7808-692f-4400-af6e-67d35bf788b2"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
+            "name": "Vitality Booster Serum",
             "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "size": "1 oz.",
+            "price": 10,
+            "product_id": "00d96394-e05d-4fe5-a37a-ff186662ecc5"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
+            "name": "Vitality Booster Serum",
             "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "size": "2 oz.",
+            "price": 15,
+            "product_id": "b3939e32-ca2b-40d7-b09b-17bfd523e7aa"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
+            "name": "Vitality Booster Serum",
             "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
             "size": "4 oz.",
-            "price": 25
+            "price": 25,
+            "product_id": "4f6ac6f3-c9e9-4134-9b91-8665785d8f14"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Illuminating Eye Cream",
+            "category": "Eye Cream",
+            "size": "1 oz.",
+            "price": 10,
+            "product_id": "829ff500-8001-4da3-991b-c163b3e88d71"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Illuminating Eye Cream",
+            "category": "Eye Cream",
+            "size": "2 oz.",
+            "price": 15,
+            "product_id": "6891a6ee-7726-4269-a5b6-f3408cd8f83d"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
+            "name": "Illuminating Eye Cream",
+            "category": "Eye Cream",
             "size": "4 oz.",
-            "price": 25
+            "price": 25,
+            "product_id": "7b1435a9-26c8-46db-a015-89d8e2b4829e"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Fresh Start Cleanser",
+            "category": "Cleanser",
+            "size": "1 oz.",
+            "price": 10,
+            "product_id": "98e761d7-f532-463c-aee0-4a49be9df8f9"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Fresh Start Cleanser",
+            "category": "Cleanser",
+            "size": "2 oz.",
+            "price": 15,
+            "product_id": "4cde09cf-4157-4c16-9d06-31b0671adf53"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
+            "name": "Fresh Start Cleanser",
+            "category": "Cleanser",
             "size": "4 oz.",
-            "price": 25
+            "price": 25,
+            "product_id": "cc3b6abd-18c2-49f1-954d-3567954aee8b"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Age-Defying Toner",
+            "category": "Toner",
+            "size": "1 oz.",
+            "price": 10,
+            "product_id": "db5610c5-43fc-4503-a47d-565c2b90f879"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Age-Defying Toner",
+            "category": "Toner",
+            "size": "2 oz.",
+            "price": 15,
+            "product_id": "f5a272b5-955a-4da5-ae28-24819e77a28f"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
+            "name": "Age-Defying Toner",
+            "category": "Toner",
             "size": "4 oz.",
-            "price": 25
+            "price": 25,
+            "product_id": "3efd82c0-e43c-41e9-b089-29b6bd8f2973"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Calming Recovery Balm",
+            "category": "Moisturizer",
+            "size": "1 oz.",
+            "price": 10,
+            "product_id": "65f179c8-9993-4fbf-bdd0-439a209ec4d7"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Calming Recovery Balm",
+            "category": "Moisturizer",
+            "size": "2 oz.",
+            "price": 15,
+            "product_id": "810de79c-b57a-406b-ade5-947d5b46c795"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
+            "name": "Calming Recovery Balm",
+            "category": "Moisturizer",
             "size": "4 oz.",
-            "price": 25
+            "price": 25,
+            "product_id": "471ac10a-a3d1-46fc-8827-7e9c8eaa9e50"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Nourishing Lip Mask",
+            "category": "Mask",
+            "size": "1 oz.",
+            "price": 10,
+            "product_id": "06c5017d-4878-4d17-960d-b9b151b0818d"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Nourishing Lip Mask",
+            "category": "Mask",
+            "size": "2 oz.",
+            "price": 15,
+            "product_id": "20c3bcdc-c329-4fc3-8f62-c3bd2d9a1c32"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
+            "name": "Nourishing Lip Mask",
+            "category": "Mask",
             "size": "4 oz.",
-            "price": 25
+            "price": 25,
+            "product_id": "4dc0e707-9950-47d1-a923-0b5bd7cf1a06"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Balance Restoring Essence",
+            "category": "Essence",
+            "size": "1 oz.",
+            "price": 10,
+            "product_id": "56a2a263-c76a-4000-a365-927e564104c2"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Balance Restoring Essence",
+            "category": "Essence",
+            "size": "2 oz.",
+            "price": 15,
+            "product_id": "d42bb6bd-3867-4c99-9f7f-99cdc68a6432"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
+            "name": "Balance Restoring Essence",
+            "category": "Essence",
             "size": "4 oz.",
-            "price": 25
+            "price": 25,
+            "product_id": "4ab9f1e2-5c01-49a3-99bf-14fceb6ee7e7"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Deep Clean Purifier",
+            "category": "Cleanser",
+            "size": "1 oz.",
+            "price": 10,
+            "product_id": "f6945874-08a6-43f4-8e2a-c738a5b58a00"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Deep Clean Purifier",
+            "category": "Cleanser",
+            "size": "2 oz.",
+            "price": 15,
+            "product_id": "2a3d6450-da83-4f2b-82b4-36970dd43378"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
+            "name": "Deep Clean Purifier",
+            "category": "Cleanser",
             "size": "4 oz.",
-            "price": 25
+            "price": 25,
+            "product_id": "3d9e475c-50c6-4d97-a5dd-737efe39e527"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Revitalize & Renew Cream",
+            "category": "Moisturizer",
+            "size": "1 oz.",
+            "price": 10,
+            "product_id": "aa659f57-5288-4d42-858d-e05567725478"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Revitalize & Renew Cream",
+            "category": "Moisturizer",
+            "size": "2 oz.",
+            "price": 15,
+            "product_id": "68bc394e-435a-4f9e-9bfd-aecc5df6d5c4"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
+            "name": "Revitalize & Renew Cream",
+            "category": "Moisturizer",
             "size": "4 oz.",
-            "price": 25
+            "price": 25,
+            "product_id": "2f2d732b-4c9a-4a53-bb07-d05624850944"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Brightening Spot Corrector",
+            "category": "Treatment",
+            "size": "1 oz.",
+            "price": 10,
+            "product_id": "11fb6d05-d754-4150-88c9-0ad967a8860c"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Brightening Spot Corrector",
+            "category": "Treatment",
+            "size": "2 oz.",
+            "price": 15,
+            "product_id": "0bf601a2-675e-4522-8c29-db7644299988"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
+            "name": "Brightening Spot Corrector",
+            "category": "Treatment",
             "size": "4 oz.",
-            "price": 25
+            "price": 25,
+            "product_id": "ec024a2e-d0af-4ba6-9553-79b6756008f5"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Gentle Exfoliating Scrub",
+            "category": "Scrub",
+            "size": "1 oz.",
+            "price": 10,
+            "product_id": "8b291fbf-8fe3-442d-895a-2d21b63f4cc9"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Gentle Exfoliating Scrub",
+            "category": "Scrub",
+            "size": "2 oz.",
+            "price": 15,
+            "product_id": "4ec9619c-c9e4-49dc-9215-d3d8dc94903f"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
+            "name": "Gentle Exfoliating Scrub",
+            "category": "Scrub",
             "size": "4 oz.",
-            "price": 25
+            "price": 25,
+            "product_id": "63efbbfc-5ed2-4c07-ae82-f1ed8c307268"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Overnight Rejuvenator",
+            "category": "Moisturizer",
+            "size": "1 oz.",
+            "price": 10,
+            "product_id": "6a6342df-0ae0-4421-81f8-2d233ca6f805"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Overnight Rejuvenator",
+            "category": "Moisturizer",
+            "size": "2 oz.",
+            "price": 15,
+            "product_id": "2fd73cee-5798-4001-993d-6fe21ccf27e8"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
+            "name": "Overnight Rejuvenator",
+            "category": "Moisturizer",
             "size": "4 oz.",
-            "price": 25
+            "price": 25,
+            "product_id": "d96e6d70-be60-4a3a-a959-b618b77ce56d"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Hydrating Aqua Mist",
+            "category": "Mist",
+            "size": "1 oz.",
+            "price": 10,
+            "product_id": "9e14e1f4-6689-4bdb-89fe-57c1f4430092"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Hydrating Aqua Mist",
+            "category": "Mist",
+            "size": "2 oz.",
+            "price": 15,
+            "product_id": "a0724a4d-6fd3-48f7-9b99-6b2167fba6f7"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
+            "name": "Hydrating Aqua Mist",
+            "category": "Mist",
             "size": "4 oz.",
-            "price": 25
+            "price": 25,
+            "product_id": "e2ed8735-fe9a-4f05-8349-b6524a09b0b9"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
+            "name": "Soothing Recovery Serum",
             "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "size": "1 oz.",
+            "price": 10,
+            "product_id": "c616fdb6-7c65-4f88-9368-c5da44dc6d23"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
+            "name": "Soothing Recovery Serum",
             "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "size": "2 oz.",
+            "price": 15,
+            "product_id": "97289cef-6a47-428f-a3af-3d3c70fab5a1"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
+            "name": "Soothing Recovery Serum",
             "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
             "size": "4 oz.",
-            "price": 25
+            "price": 25,
+            "product_id": "0aadfc5b-97f7-48c4-bd7e-1d74102c80e4"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Timeless Beauty Oil",
+            "category": "Oil",
+            "size": "1 oz.",
+            "price": 10,
+            "product_id": "fa8ddac8-0e52-4e2f-930f-9f8b5f070ff3"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Timeless Beauty Oil",
+            "category": "Oil",
+            "size": "2 oz.",
+            "price": 15,
+            "product_id": "31a5c093-5afd-4281-a987-2f9ea5f7d10f"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
+            "name": "Timeless Beauty Oil",
+            "category": "Oil",
             "size": "4 oz.",
-            "price": 25
+            "price": 25,
+            "product_id": "49fbe649-099c-4d10-a2be-a1db3c99bb10"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Skin Barrier Repair Cream",
+            "category": "Moisturizer",
+            "size": "1 oz.",
+            "price": 10,
+            "product_id": "093d031f-d7c7-4e7b-bd60-86f37c168da6"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Skin Barrier Repair Cream",
+            "category": "Moisturizer",
+            "size": "2 oz.",
+            "price": 15,
+            "product_id": "95a4fccb-4909-48e4-be08-f8d3b82793b5"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
+            "name": "Skin Barrier Repair Cream",
+            "category": "Moisturizer",
             "size": "4 oz.",
-            "price": 25
+            "price": 25,
+            "product_id": "a70066d6-8b51-4994-9b39-5dc00cefcf7c"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Radiance Enhancing Gel",
+            "category": "Gel",
+            "size": "1 oz.",
+            "price": 10,
+            "product_id": "6aaccdbf-a4e8-4914-b174-0711a32eaba8"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Radiance Enhancing Gel",
+            "category": "Gel",
+            "size": "2 oz.",
+            "price": 15,
+            "product_id": "c39b2772-3e95-4358-85f9-b46ee5e9e8de"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
+            "name": "Radiance Enhancing Gel",
+            "category": "Gel",
             "size": "4 oz.",
-            "price": 25
+            "price": 25,
+            "product_id": "7c382d2d-b155-419c-a7f6-c2d48203ec84"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Pore Refining Mask",
+            "category": "Mask",
+            "size": "1 oz.",
+            "price": 10,
+            "product_id": "0607c30d-21e3-48be-b800-6a1e43ed2f29"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Pore Refining Mask",
+            "category": "Mask",
+            "size": "2 oz.",
+            "price": 15,
+            "product_id": "a84ede34-6fb0-4ca4-823a-0c1cbe0e3210"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
+            "name": "Pore Refining Mask",
+            "category": "Mask",
             "size": "4 oz.",
-            "price": 25
+            "price": 25,
+            "product_id": "81f6d985-f2a2-4c4e-88c9-adf69f452001"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Vital Defense Shield",
+            "category": "Moisturizer",
+            "size": "1 oz.",
+            "price": 10,
+            "product_id": "684f3ae1-9d51-480c-a19a-9996b85501df"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Vital Defense Shield",
+            "category": "Moisturizer",
+            "size": "2 oz.",
+            "price": 15,
+            "product_id": "7ba6b23f-02cc-40b5-b308-e1184950b627"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
+            "name": "Vital Defense Shield",
+            "category": "Moisturizer",
             "size": "4 oz.",
-            "price": 25
+            "price": 25,
+            "product_id": "d2b57353-8187-4003-b60d-a87fb77340d9"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
+            "name": "Youth Preserve Elixir",
             "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "size": "1 oz.",
+            "price": 10,
+            "product_id": "798b05e1-e272-4c71-bfca-62db8761c70d"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
+            "name": "Youth Preserve Elixir",
             "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "size": "2 oz.",
+            "price": 15,
+            "product_id": "c631bf61-1976-40f3-9363-9bf99adb726b"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
+            "name": "Youth Preserve Elixir",
             "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
             "size": "4 oz.",
-            "price": 25
+            "price": 25,
+            "product_id": "23bf310b-cf5f-450c-a733-85d6efb410f5"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Detoxifying Clay Cleanser",
+            "category": "Cleanser",
+            "size": "1 oz.",
+            "price": 10,
+            "product_id": "0672454a-6522-4217-b2be-ea8f3546975c"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Detoxifying Clay Cleanser",
+            "category": "Cleanser",
+            "size": "2 oz.",
+            "price": 15,
+            "product_id": "6317d8a7-a236-4003-b231-86b88226d0c9"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
+            "name": "Detoxifying Clay Cleanser",
+            "category": "Cleanser",
             "size": "4 oz.",
-            "price": 25
+            "price": 25,
+            "product_id": "1c8547e0-ce67-4d6d-bfdb-bd94f5d19f4a"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Renewing Facial Polish",
+            "category": "Exfoliant",
+            "size": "1 oz.",
+            "price": 10,
+            "product_id": "2cffad65-5e52-4fe9-bcaa-01ab2307a34b"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Renewing Facial Polish",
+            "category": "Exfoliant",
+            "size": "2 oz.",
+            "price": 15,
+            "product_id": "dae42bc0-703c-47db-bab3-e572cc47ed92"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
+            "name": "Renewing Facial Polish",
+            "category": "Exfoliant",
             "size": "4 oz.",
-            "price": 25
+            "price": 25,
+            "product_id": "9012b87f-8dfc-43f4-9436-b7f0e3aaa6d9"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Bright Eyes Gel",
+            "category": "Eye Care",
+            "size": "1 oz.",
+            "price": 10,
+            "product_id": "2b19c324-67c8-402c-a436-c467e58f2ebe"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Bright Eyes Gel",
+            "category": "Eye Care",
+            "size": "2 oz.",
+            "price": 15,
+            "product_id": "557daeca-08ee-4a41-ac8c-9ae01ffc90d5"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
+            "name": "Bright Eyes Gel",
+            "category": "Eye Care",
             "size": "4 oz.",
-            "price": 25
+            "price": 25,
+            "product_id": "511f9aba-9334-43ed-9b77-3fd7e6d99047"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Daily Glow Moisturizer",
+            "category": "Moisturizer",
+            "size": "1 oz.",
+            "price": 10,
+            "product_id": "67432508-dcdd-487d-9829-f02838808cb2"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Daily Glow Moisturizer",
+            "category": "Moisturizer",
+            "size": "2 oz.",
+            "price": 15,
+            "product_id": "bcb53712-8038-42a9-9ffd-ba0c4403e4a2"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
+            "name": "Daily Glow Moisturizer",
+            "category": "Moisturizer",
             "size": "4 oz.",
-            "price": 25
+            "price": 25,
+            "product_id": "3b19b0ac-63e4-42e8-98e8-0628eb64d1dc"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
+            "name": "Anti-Aging Power Serum",
             "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "size": "1 oz.",
+            "price": 10,
+            "product_id": "323ed7fb-8f1e-46fb-b10d-6fde28fa91fd"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
+            "name": "Anti-Aging Power Serum",
             "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "size": "2 oz.",
+            "price": 15,
+            "product_id": "f3130ce0-df28-436d-b82b-e045391828d6"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
+            "name": "Anti-Aging Power Serum",
             "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
             "size": "4 oz.",
-            "price": 25
+            "price": 25,
+            "product_id": "97cf6d21-19c3-4be9-9658-f0b25af75f5e"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Stress Relief Balm",
+            "category": "Moisturizer",
+            "size": "1 oz.",
+            "price": 10,
+            "product_id": "7cac1c37-aadb-40d7-a6b9-f8327b7dc84d"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Stress Relief Balm",
+            "category": "Moisturizer",
+            "size": "2 oz.",
+            "price": 15,
+            "product_id": "d0f95e0d-82d8-498a-af4f-41e8b56752fe"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
+            "name": "Stress Relief Balm",
+            "category": "Moisturizer",
             "size": "4 oz.",
-            "price": 25
+            "price": 25,
+            "product_id": "04ed1421-c08f-46d5-bd6f-42f7ae7f8ff5"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
+            "name": "Hyaluronic Acid Booster",
             "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "size": "1 oz.",
+            "price": 10,
+            "product_id": "500f9e76-df1a-4082-a6ea-de9e480c681c"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
+            "name": "Hyaluronic Acid Booster",
             "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "size": "2 oz.",
+            "price": 15,
+            "product_id": "76634139-7e2e-44c3-8775-9923cc88feb2"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
+            "name": "Hyaluronic Acid Booster",
             "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
             "size": "4 oz.",
-            "price": 25
+            "price": 25,
+            "product_id": "559f4c3a-6d53-4000-9f24-15bf34f4912e"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Complexion Perfection Cream",
+            "category": "Cream",
+            "size": "1 oz.",
+            "price": 10,
+            "product_id": "cd204381-3d48-4551-ad69-cc9da1fd6796"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Complexion Perfection Cream",
+            "category": "Cream",
+            "size": "2 oz.",
+            "price": 15,
+            "product_id": "cbae9752-2ea0-4b00-a161-3a15d5a382c7"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
+            "name": "Complexion Perfection Cream",
+            "category": "Cream",
             "size": "4 oz.",
-            "price": 25
+            "price": 25,
+            "product_id": "7677559d-eb87-482a-b45e-96f3d290e272"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Renewed Vitality Balm",
+            "category": "Moisturizer",
+            "size": "1 oz.",
+            "price": 10,
+            "product_id": "06dadcf5-d23f-49e2-abc7-b64903240401"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Renewed Vitality Balm",
+            "category": "Moisturizer",
+            "size": "2 oz.",
+            "price": 15,
+            "product_id": "b0e40011-2fbb-4fd9-bfc2-27b6d487ba0a"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
+            "name": "Renewed Vitality Balm",
+            "category": "Moisturizer",
             "size": "4 oz.",
-            "price": 25
+            "price": 25,
+            "product_id": "fce1e98b-7db2-450d-be23-f5085dd9efaa"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
+            "name": "Illuminating Pearl Serum",
             "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "size": "1 oz.",
+            "price": 10,
+            "product_id": "b1f47155-1d0b-4fae-81be-7f681ac39360"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
+            "name": "Illuminating Pearl Serum",
             "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "size": "2 oz.",
+            "price": 15,
+            "product_id": "d787fce2-a980-4fb2-b8b3-ec7b9c636c3a"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
+            "name": "Illuminating Pearl Serum",
             "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
             "size": "4 oz.",
-            "price": 25
+            "price": 25,
+            "product_id": "901489b8-1400-4586-9e5e-1cec745eae01"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Overnight Recovery Mask",
+            "category": "Mask",
+            "size": "1 oz.",
+            "price": 10,
+            "product_id": "a17ccfe1-2738-497e-8b00-add14ad33b26"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Overnight Recovery Mask",
+            "category": "Mask",
+            "size": "2 oz.",
+            "price": 15,
+            "product_id": "8c6fc7e2-0c13-4098-9399-1f432d3662bf"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
+            "name": "Overnight Recovery Mask",
+            "category": "Mask",
             "size": "4 oz.",
-            "price": 25
+            "price": 25,
+            "product_id": "8f74ec57-8417-4a8c-8462-217c3fef4529"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Soothe & Smooth Cream",
+            "category": "Moisturizer",
+            "size": "1 oz.",
+            "price": 10,
+            "product_id": "5cf36532-1cca-444f-b1ed-5e4c49843f91"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Soothe & Smooth Cream",
+            "category": "Moisturizer",
+            "size": "2 oz.",
+            "price": 15,
+            "product_id": "063360ed-a672-4e6e-b64b-c2364f5603f6"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
+            "name": "Soothe & Smooth Cream",
+            "category": "Moisturizer",
             "size": "4 oz.",
-            "price": 25
+            "price": 25,
+            "product_id": "109fdae3-e494-4ad6-8a7e-3edbab65c18d"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Fresh Complexion Mist",
+            "category": "Mist",
+            "size": "1 oz.",
+            "price": 10,
+            "product_id": "e9053c98-e1c9-459e-931b-5e3cff652a2d"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Fresh Complexion Mist",
+            "category": "Mist",
+            "size": "2 oz.",
+            "price": 15,
+            "product_id": "a9d28688-0182-42fe-9d08-98dfe4f8d806"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
+            "name": "Fresh Complexion Mist",
+            "category": "Mist",
             "size": "4 oz.",
-            "price": 25
+            "price": 25,
+            "product_id": "5908dee1-5209-42d5-bef7-7a0f0fff55d5"
         }
     },
     {
         "data": {
             "name": "Age-Defying Renewal Serum",
             "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "size": "1 oz.",
+            "price": 10,
+            "product_id": "7616c115-6609-4e87-8752-01b8b5947c41"
         }
     },
     {
         "data": {
             "name": "Age-Defying Renewal Serum",
             "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "size": "2 oz.",
+            "price": 15,
+            "product_id": "72f95101-0c97-4166-a96b-2452aef97008"
         }
     },
     {
         "data": {
             "name": "Age-Defying Renewal Serum",
             "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
             "size": "4 oz.",
-            "price": 25
+            "price": 25,
+            "product_id": "7532096b-25db-4f39-b2cc-48e1e2f973c0"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Ultra-Hydrating Balm",
+            "category": "Moisturizer",
+            "size": "1 oz.",
+            "price": 10,
+            "product_id": "d931f604-40a1-4931-9bb6-d320631b9fd2"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Ultra-Hydrating Balm",
+            "category": "Moisturizer",
+            "size": "2 oz.",
+            "price": 15,
+            "product_id": "498bd633-b9e1-492c-8d89-79b7d5d8dbd6"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
+            "name": "Ultra-Hydrating Balm",
+            "category": "Moisturizer",
             "size": "4 oz.",
-            "price": 25
+            "price": 25,
+            "product_id": "a7d917a8-4711-477f-a992-45ac0772f668"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Radiant Skin Elixir",
+            "category": "Oil",
+            "size": "1 oz.",
+            "price": 10,
+            "product_id": "0673cda7-fdf6-4433-9640-0f708c005fa2"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Radiant Skin Elixir",
+            "category": "Oil",
+            "size": "2 oz.",
+            "price": 15,
+            "product_id": "7c4906c3-8452-4f91-84ef-aa4f865470c8"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
+            "name": "Radiant Skin Elixir",
+            "category": "Oil",
             "size": "4 oz.",
-            "price": 25
+            "price": 25,
+            "product_id": "45fae9de-36c7-4f8e-a87f-f72722a21150"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
+            "name": "Brightening Vitamin C Serum",
             "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "size": "1 oz.",
+            "price": 10,
+            "product_id": "8e2acba5-1c65-4c60-b2cb-56780a1ba0fa"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
+            "name": "Brightening Vitamin C Serum",
             "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "size": "2 oz.",
+            "price": 15,
+            "product_id": "9088a77c-b723-43ca-9927-072267305ed7"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
+            "name": "Brightening Vitamin C Serum",
             "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
             "size": "4 oz.",
-            "price": 25
+            "price": 25,
+            "product_id": "81ea4de4-b941-429e-9186-126a7b127258"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Deep Hydration Mask",
+            "category": "Mask",
+            "size": "1 oz.",
+            "price": 10,
+            "product_id": "5d76e453-9115-4095-9008-0e0d5d2da6dd"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Deep Hydration Mask",
+            "category": "Mask",
+            "size": "2 oz.",
+            "price": 15,
+            "product_id": "4335abf9-0228-4191-9a02-fa0bde426888"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
+            "name": "Deep Hydration Mask",
+            "category": "Mask",
             "size": "4 oz.",
-            "price": 25
+            "price": 25,
+            "product_id": "74a78e6f-fdca-494f-b0e6-978e9a51f0ad"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Rejuvenating Eye Cream",
+            "category": "Eye Cream",
+            "size": "1 oz.",
+            "price": 10,
+            "product_id": "3754ab45-52bc-4d8a-b7b3-92b1b4a02038"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Rejuvenating Eye Cream",
+            "category": "Eye Cream",
+            "size": "2 oz.",
+            "price": 15,
+            "product_id": "a85d15de-a008-4443-ac0e-9f55db8e96e3"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
+            "name": "Rejuvenating Eye Cream",
+            "category": "Eye Cream",
             "size": "4 oz.",
-            "price": 25
+            "price": 25,
+            "product_id": "3abebd15-b493-4846-90bd-6e3eaa942a72"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
+            "name": "Vital Lift Serum",
             "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "size": "1 oz.",
+            "price": 10,
+            "product_id": "4d973c46-f147-4353-9ca7-69cf4b44517c"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
+            "name": "Vital Lift Serum",
             "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "size": "2 oz.",
+            "price": 15,
+            "product_id": "b99631e2-58ea-4cd7-9a61-bf0d963b4e08"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
+            "name": "Vital Lift Serum",
             "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
             "size": "4 oz.",
-            "price": 25
+            "price": 25,
+            "product_id": "843e611a-0b8f-4559-ba51-e904c1e69167"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Purifying Charcoal Cleanser",
+            "category": "Cleanser",
+            "size": "1 oz.",
+            "price": 10,
+            "product_id": "b0a8188e-e9ef-4c5b-91b6-56d858e2c212"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Purifying Charcoal Cleanser",
+            "category": "Cleanser",
+            "size": "2 oz.",
+            "price": 15,
+            "product_id": "88dee386-1282-43e2-90b1-916732f6d739"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
+            "name": "Purifying Charcoal Cleanser",
+            "category": "Cleanser",
             "size": "4 oz.",
-            "price": 25
+            "price": 25,
+            "product_id": "ec391f93-6536-493b-8d1c-e27b425002c7"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Gentle Hydrating Toner",
+            "category": "Toner",
+            "size": "1 oz.",
+            "price": 10,
+            "product_id": "6e2981ed-e2dd-4f64-8eb2-22b11d546596"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Gentle Hydrating Toner",
+            "category": "Toner",
+            "size": "2 oz.",
+            "price": 15,
+            "product_id": "c643a849-9de6-40b0-bfd3-9f4ac893edb8"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
+            "name": "Gentle Hydrating Toner",
+            "category": "Toner",
             "size": "4 oz.",
-            "price": 25
+            "price": 25,
+            "product_id": "379aa921-13c2-4da7-b86f-f7b29f8a4ed1"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Calming Rescue Balm",
+            "category": "Moisturizer",
+            "size": "1 oz.",
+            "price": 10,
+            "product_id": "4aab31d5-9b09-4e3a-bb30-c441c7f07915"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Calming Rescue Balm",
+            "category": "Moisturizer",
+            "size": "2 oz.",
+            "price": 15,
+            "product_id": "bfcc4e4b-3054-4fbb-a5b2-3b7a5b8d923a"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
+            "name": "Calming Rescue Balm",
+            "category": "Moisturizer",
             "size": "4 oz.",
-            "price": 25
+            "price": 25,
+            "product_id": "78cc20ec-abaf-44fa-bd5d-0e545bb94c9c"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Vital Essence Oil",
+            "category": "Oil",
+            "size": "1 oz.",
+            "price": 10,
+            "product_id": "77c71163-7a61-4266-89e1-2ae66d3bcb09"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Vital Essence Oil",
+            "category": "Oil",
+            "size": "2 oz.",
+            "price": 15,
+            "product_id": "b07a9d03-f20b-4499-82a6-a65f68214eea"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
+            "name": "Vital Essence Oil",
+            "category": "Oil",
             "size": "4 oz.",
-            "price": 25
+            "price": 25,
+            "product_id": "3a20a6d2-e1fc-4cb7-88bd-a3f6c04b6e99"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
+            "name": "Radiant Glow Booster",
             "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "size": "1 oz.",
+            "price": 10,
+            "product_id": "239fa330-acf1-4cd6-b413-855e4c771e96"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
+            "name": "Radiant Glow Booster",
             "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "size": "2 oz.",
+            "price": 15,
+            "product_id": "cdf85f63-689c-4d46-9a7f-f4538938a4db"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
+            "name": "Radiant Glow Booster",
             "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
             "size": "4 oz.",
-            "price": 25
+            "price": 25,
+            "product_id": "8e9ff989-d6c5-4f66-acc0-148b8ee50df9"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Youthful Renewal Cream",
+            "category": "Moisturizer",
+            "size": "1 oz.",
+            "price": 10,
+            "product_id": "3a277c48-caac-42b0-b455-2a20ec85abf2"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Youthful Renewal Cream",
+            "category": "Moisturizer",
+            "size": "2 oz.",
+            "price": 15,
+            "product_id": "e954918a-2ad3-4988-956d-1606242ca00c"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
+            "name": "Youthful Renewal Cream",
+            "category": "Moisturizer",
             "size": "4 oz.",
-            "price": 25
+            "price": 25,
+            "product_id": "5720845b-f80a-499f-8620-99a03eac7950"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Renewing Overnight Mask",
+            "category": "Mask",
+            "size": "1 oz.",
+            "price": 10,
+            "product_id": "0f6e026f-465c-42ed-83af-be074aafaafe"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Renewing Overnight Mask",
+            "category": "Mask",
+            "size": "2 oz.",
+            "price": 15,
+            "product_id": "d1d723a5-23e5-4f29-913e-35807e5ba38c"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
+            "name": "Renewing Overnight Mask",
+            "category": "Mask",
             "size": "4 oz.",
-            "price": 25
+            "price": 25,
+            "product_id": "97a46de8-ae61-4f94-88a3-5e28a0c8b817"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Revitalizing Facial Oil",
+            "category": "Oil",
+            "size": "1 oz.",
+            "price": 10,
+            "product_id": "f25e2b8a-adc4-4046-8402-15097608d9e4"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Revitalizing Facial Oil",
+            "category": "Oil",
+            "size": "2 oz.",
+            "price": 15,
+            "product_id": "eed17821-e902-4d7b-bda3-62eb4a7aaf4d"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
+            "name": "Revitalizing Facial Oil",
+            "category": "Oil",
             "size": "4 oz.",
-            "price": 25
+            "price": 25,
+            "product_id": "0a1bb6cb-26f4-4a59-938c-912297db5a0d"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Hydrating Gel Cream",
+            "category": "Moisturizer",
+            "size": "1 oz.",
+            "price": 10,
+            "product_id": "59a49deb-c4d6-462c-9d3d-df1c0fce7202"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Hydrating Gel Cream",
+            "category": "Moisturizer",
+            "size": "2 oz.",
+            "price": 15,
+            "product_id": "9bd87933-69a8-4d80-b86b-c41596bdd0a3"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
+            "name": "Hydrating Gel Cream",
+            "category": "Moisturizer",
             "size": "4 oz.",
-            "price": 25
+            "price": 25,
+            "product_id": "de88255d-5053-43a1-8c41-a6ebfc41a2f6"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Age-Reverse Night Cream",
+            "category": "Night Cream",
+            "size": "1 oz.",
+            "price": 10,
+            "product_id": "2e59c151-a757-419e-8931-a268b2c1878e"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Age-Reverse Night Cream",
+            "category": "Night Cream",
+            "size": "2 oz.",
+            "price": 15,
+            "product_id": "210b36ef-42c0-4a0d-8c7d-721598ef7101"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
+            "name": "Age-Reverse Night Cream",
+            "category": "Night Cream",
             "size": "4 oz.",
-            "price": 25
+            "price": 25,
+            "product_id": "2dcb1b41-82bf-4ca9-8fb5-b0ea277917f4"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
+            "name": "Spot Correcting Serum",
             "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "size": "1 oz.",
+            "price": 10,
+            "product_id": "1d70966b-6c4c-48fd-a0d0-ac2449935366"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
+            "name": "Spot Correcting Serum",
             "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "size": "2 oz.",
+            "price": 15,
+            "product_id": "2e38ccc1-2e39-4d86-928a-ea10f537a17a"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
+            "name": "Spot Correcting Serum",
             "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
             "size": "4 oz.",
-            "price": 25
+            "price": 25,
+            "product_id": "332e4d89-075f-4ff0-a413-58afbfda0ebc"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Fresh Start Cleansing Gel",
+            "category": "Cleanser",
+            "size": "1 oz.",
+            "price": 10,
+            "product_id": "b3915a20-f420-489f-aa1e-881ae2f5f159"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Fresh Start Cleansing Gel",
+            "category": "Cleanser",
+            "size": "2 oz.",
+            "price": 15,
+            "product_id": "5f789b7a-6a38-4068-bf7b-507d1ab7b80f"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
+            "name": "Fresh Start Cleansing Gel",
+            "category": "Cleanser",
             "size": "4 oz.",
-            "price": 25
+            "price": 25,
+            "product_id": "959c8559-567f-4033-a524-1c077a14970c"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Firming Neck Cream",
+            "category": "Neck Cream",
+            "size": "1 oz.",
+            "price": 10,
+            "product_id": "d0eb8ed4-ee6d-4290-bc81-3011d34e3784"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Firming Neck Cream",
+            "category": "Neck Cream",
+            "size": "2 oz.",
+            "price": 15,
+            "product_id": "1ae5c403-68f3-4906-a5b6-069fdbdbc8b4"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
+            "name": "Firming Neck Cream",
+            "category": "Neck Cream",
             "size": "4 oz.",
-            "price": 25
+            "price": 25,
+            "product_id": "f51defa1-5756-4ffd-8b26-8050a96018b9"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Recovery Mask",
+            "category": "Mask",
+            "size": "1 oz.",
+            "price": 10,
+            "product_id": "58dd7dc8-72c0-4388-920e-a3c4ec40884f"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Recovery Mask",
+            "category": "Mask",
+            "size": "2 oz.",
+            "price": 15,
+            "product_id": "15648a75-1d19-46d5-993a-ad10b4ecd57b"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
+            "name": "Recovery Mask",
+            "category": "Mask",
             "size": "4 oz.",
-            "price": 25
+            "price": 25,
+            "product_id": "74e46246-0135-47e2-ac5f-1031ae10bc66"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
+            "name": "Anti-Wrinkle Serum",
             "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "size": "1 oz.",
+            "price": 10,
+            "product_id": "ca134426-2b72-43ca-ad9b-f9b42677605f"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
+            "name": "Anti-Wrinkle Serum",
             "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "size": "2 oz.",
+            "price": 15,
+            "product_id": "361efc02-6775-499a-a094-521b13517896"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
+            "name": "Anti-Wrinkle Serum",
             "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
             "size": "4 oz.",
-            "price": 25
+            "price": 25,
+            "product_id": "3905a02e-a21b-46a6-adb9-d8e385bcef43"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Brightening Day Cream",
+            "category": "Day Cream",
+            "size": "1 oz.",
+            "price": 10,
+            "product_id": "bba55b5f-f376-4f3a-befe-d153f1c8ee32"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Brightening Day Cream",
+            "category": "Day Cream",
+            "size": "2 oz.",
+            "price": 15,
+            "product_id": "9221c607-ff1d-4f7a-ad4f-1706911bc871"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
+            "name": "Brightening Day Cream",
+            "category": "Day Cream",
             "size": "4 oz.",
-            "price": 25
+            "price": 25,
+            "product_id": "9b83cb07-8982-43c4-8fe5-740df02e0962"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Hydrating Overnight Mask",
+            "category": "Mask",
+            "size": "1 oz.",
+            "price": 10,
+            "product_id": "863d9ae0-000d-4c20-a29e-7beaba647469"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Hydrating Overnight Mask",
+            "category": "Mask",
+            "size": "2 oz.",
+            "price": 15,
+            "product_id": "c55a483a-cfd4-4e8f-be41-a7e4858b8cff"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
+            "name": "Hydrating Overnight Mask",
+            "category": "Mask",
             "size": "4 oz.",
-            "price": 25
+            "price": 25,
+            "product_id": "c20c5f7b-04e6-4bd4-ad34-07f058874a69"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
+            "name": "Radiance Restoring Serum",
             "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "size": "1 oz.",
+            "price": 10,
+            "product_id": "524ac193-9455-4fe8-8e1c-61f9847ce0e7"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
+            "name": "Radiance Restoring Serum",
             "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "size": "2 oz.",
+            "price": 15,
+            "product_id": "c324886f-9f3b-47b4-967b-d99ae031bb44"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
+            "name": "Radiance Restoring Serum",
             "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
             "size": "4 oz.",
-            "price": 25
+            "price": 25,
+            "product_id": "6b550c49-ff6c-4080-b102-cddfba0c5999"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Luminous Complexion Cream",
+            "category": "Cream",
+            "size": "1 oz.",
+            "price": 10,
+            "product_id": "3a62edf0-5833-4b33-8924-e4e1e696d8d9"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Luminous Complexion Cream",
+            "category": "Cream",
+            "size": "2 oz.",
+            "price": 15,
+            "product_id": "21905e47-b66e-41da-9a6c-bee8c79c15d0"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
+            "name": "Luminous Complexion Cream",
+            "category": "Cream",
             "size": "4 oz.",
-            "price": 25
+            "price": 25,
+            "product_id": "1b04bd06-84dc-4627-bc8d-2462cc18767b"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Detoxifying Facial Scrub",
+            "category": "Scrub",
+            "size": "1 oz.",
+            "price": 10,
+            "product_id": "1cf88441-38be-4abd-9235-2c04a8566d6e"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Detoxifying Facial Scrub",
+            "category": "Scrub",
+            "size": "2 oz.",
+            "price": 15,
+            "product_id": "cc6545ab-2fb2-4c3d-bc25-30b1ba3eca4e"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
+            "name": "Detoxifying Facial Scrub",
+            "category": "Scrub",
             "size": "4 oz.",
-            "price": 25
+            "price": 25,
+            "product_id": "720e3c5e-10ab-4399-b889-4a81c491898a"
         }
     },
-    {
-        "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+    {
+        "data": {
+            "name": "Youth Essence Oil",
+            "category": "Oil",
+            "size": "1 oz.",
+            "price": 10,
+            "product_id": "f43ba103-0290-4e3c-b76a-86da042aba92"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Youth Essence Oil",
+            "category": "Oil",
+            "size": "2 oz.",
+            "price": 15,
+            "product_id": "5b9fe069-d14f-4593-aafb-01a11a8b3e14"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
+            "name": "Youth Essence Oil",
+            "category": "Oil",
             "size": "4 oz.",
-            "price": 25
+            "price": 25,
+            "product_id": "e0309bcd-bfcd-4055-8112-f67b440d5605"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Soothing Recovery Balm",
+            "category": "Moisturizer",
+            "size": "1 oz.",
+            "price": 10,
+            "product_id": "9c6b656f-c017-42cc-806d-1bc86a439f50"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Soothing Recovery Balm",
+            "category": "Moisturizer",
+            "size": "2 oz.",
+            "price": 15,
+            "product_id": "4cfd88e4-d9a6-4b06-ac14-7e3b250494d5"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
+            "name": "Soothing Recovery Balm",
+            "category": "Moisturizer",
             "size": "4 oz.",
-            "price": 25
+            "price": 25,
+            "product_id": "950acfe5-4a19-4182-9f09-095563270e6b"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Revitalizing Eye Cream",
+            "category": "Eye Cream",
+            "size": "1 oz.",
+            "price": 10,
+            "product_id": "c7328423-9936-4ddc-8059-867ccd4fc903"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Revitalizing Eye Cream",
+            "category": "Eye Cream",
+            "size": "2 oz.",
+            "price": 15,
+            "product_id": "0d89c02e-f243-4514-b5b5-221f2dde55c6"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
+            "name": "Revitalizing Eye Cream",
+            "category": "Eye Cream",
             "size": "4 oz.",
-            "price": 25
+            "price": 25,
+            "product_id": "54dfc9f7-1989-4d6e-906d-b07e33ac4807"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Rejuvenating Night Cream",
+            "category": "Night Cream",
+            "size": "1 oz.",
+            "price": 10,
+            "product_id": "d3dfc85c-4ce4-4ed9-98ac-f48fb9cbf60e"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Rejuvenating Night Cream",
+            "category": "Night Cream",
+            "size": "2 oz.",
+            "price": 15,
+            "product_id": "0acc0b69-c2bd-4990-9103-e00e0d6095a0"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
+            "name": "Rejuvenating Night Cream",
+            "category": "Night Cream",
             "size": "4 oz.",
-            "price": 25
+            "price": 25,
+            "product_id": "c6e9d6b6-1ab1-482a-b932-0c19580a9fcf"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Pore-Perfecting Toner",
+            "category": "Toner",
+            "size": "1 oz.",
+            "price": 10,
+            "product_id": "bd912257-82a8-4404-96b7-5719bea7dde7"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Pore-Perfecting Toner",
+            "category": "Toner",
+            "size": "2 oz.",
+            "price": 15,
+            "product_id": "752edc61-98e3-4dd8-b2a3-8d8a41345005"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
+            "name": "Pore-Perfecting Toner",
+            "category": "Toner",
             "size": "4 oz.",
-            "price": 25
+            "price": 25,
+            "product_id": "a41a13f1-4053-42b8-b57f-b42bfdf2d074"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
+            "name": "Ageless Beauty Serum",
             "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "size": "1 oz.",
+            "price": 10,
+            "product_id": "193f7ac8-e981-4e5e-9e17-8cc75cbeee1d"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
+            "name": "Ageless Beauty Serum",
             "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "size": "2 oz.",
+            "price": 15,
+            "product_id": "0e729ba6-da6f-40c4-8113-7e105e2aedbf"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
+            "name": "Ageless Beauty Serum",
             "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
             "size": "4 oz.",
-            "price": 25
+            "price": 25,
+            "product_id": "2aedc89a-01f2-41aa-b08e-57cc49e8633a"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Deep Clean Purifier",
+            "category": "Cleanser",
+            "size": "1 oz.",
+            "price": 10,
+            "product_id": "368b70dd-0aa8-4a5f-aac2-8b3daa182be8"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Deep Clean Purifier",
+            "category": "Cleanser",
+            "size": "2 oz.",
+            "price": 15,
+            "product_id": "3e0fba85-5230-4a8f-b106-5478296a2435"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
+            "name": "Deep Clean Purifier",
+            "category": "Cleanser",
             "size": "4 oz.",
-            "price": 25
+            "price": 25,
+            "product_id": "7d5a62ed-21e2-4073-9e37-6398abee332e"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Renewing Mask",
+            "category": "Mask",
+            "size": "1 oz.",
+            "price": 10,
+            "product_id": "66b2abd1-462d-4f6b-b9d9-1e67c966c631"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Renewing Mask",
+            "category": "Mask",
+            "size": "2 oz.",
+            "price": 15,
+            "product_id": "51d776b6-7a58-4521-9698-93fdd87d7efa"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
+            "name": "Renewing Mask",
+            "category": "Mask",
             "size": "4 oz.",
-            "price": 25
+            "price": 25,
+            "product_id": "c484ab50-bf7a-4df4-8ef4-b080adbc7864"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
+            "name": "Brightening Serum",
             "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "size": "1 oz.",
+            "price": 10,
+            "product_id": "b5fba30c-94e7-401e-9a79-2867a5d9dd0e"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
+            "name": "Brightening Serum",
             "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "size": "2 oz.",
+            "price": 15,
+            "product_id": "dd04b453-1844-4c8e-9e9d-3b2de18441f9"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
+            "name": "Brightening Serum",
             "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
             "size": "4 oz.",
-            "price": 25
+            "price": 25,
+            "product_id": "2892cccf-6946-456f-b8cb-68b5b1abddf9"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Vitality Booster Cream",
+            "category": "Cream",
+            "size": "1 oz.",
+            "price": 10,
+            "product_id": "e58ade04-f162-4a30-8bb5-6d598fdd059c"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Vitality Booster Cream",
+            "category": "Cream",
+            "size": "2 oz.",
+            "price": 15,
+            "product_id": "fd773086-c60e-4d4e-ae42-dfd71062b3dd"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
+            "name": "Vitality Booster Cream",
+            "category": "Cream",
             "size": "4 oz.",
-            "price": 25
+            "price": 25,
+            "product_id": "e6cfe64c-6175-4ef0-a70f-2edbaac11608"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Overnight Radiance Mask",
+            "category": "Mask",
+            "size": "1 oz.",
+            "price": 10,
+            "product_id": "66e67676-97b7-4551-aaa9-a22e2e323f35"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Overnight Radiance Mask",
+            "category": "Mask",
+            "size": "2 oz.",
+            "price": 15,
+            "product_id": "8733d6af-020b-4f73-a4ea-0ec71579c843"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
+            "name": "Overnight Radiance Mask",
+            "category": "Mask",
             "size": "4 oz.",
-            "price": 25
+            "price": 25,
+            "product_id": "aeb8d87b-da10-4695-a562-cd843875c1b3"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
+            "name": "Rejuvenation Serum",
             "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "size": "1 oz.",
+            "price": 10,
+            "product_id": "f47787a7-7a7a-44d5-9337-6757dcdf03f5"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
+            "name": "Rejuvenation Serum",
             "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "size": "2 oz.",
+            "price": 15,
+            "product_id": "90eb8859-94da-4853-a0f2-44e28c86ea21"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
+            "name": "Rejuvenation Serum",
             "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
             "size": "4 oz.",
-            "price": 25
+            "price": 25,
+            "product_id": "4ef3dcba-02f4-4950-b909-b9e987cb59bc"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Refreshing Cleansing Gel",
+            "category": "Cleanser",
+            "size": "1 oz.",
+            "price": 10,
+            "product_id": "aacc0c56-4db4-402e-a713-7851ad0e4c5f"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Refreshing Cleansing Gel",
+            "category": "Cleanser",
+            "size": "2 oz.",
+            "price": 15,
+            "product_id": "8e48d671-afdb-4af3-89f0-4aee657955a1"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
+            "name": "Refreshing Cleansing Gel",
+            "category": "Cleanser",
             "size": "4 oz.",
-            "price": 25
+            "price": 25,
+            "product_id": "b6c75e24-9051-4540-9f44-62937cd208bc"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Nourishing Night Cream",
+            "category": "Night Cream",
+            "size": "1 oz.",
+            "price": 10,
+            "product_id": "1cdc6635-b3a1-4515-bb06-f8091d11e54b"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Nourishing Night Cream",
+            "category": "Night Cream",
+            "size": "2 oz.",
+            "price": 15,
+            "product_id": "132501a3-77b1-45fc-85a9-edb5bb2f6961"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
+            "name": "Nourishing Night Cream",
+            "category": "Night Cream",
             "size": "4 oz.",
-            "price": 25
+            "price": 25,
+            "product_id": "0d32ace4-a412-4849-9e29-266301610ca3"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Illuminating Facial Oil",
+            "category": "Oil",
+            "size": "1 oz.",
+            "price": 10,
+            "product_id": "126e2e6d-6f8b-47b8-8e6e-8e93a80b4dbf"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Illuminating Facial Oil",
+            "category": "Oil",
+            "size": "2 oz.",
+            "price": 15,
+            "product_id": "82380bda-878c-4f90-beaa-9c122c4cbfb9"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
+            "name": "Illuminating Facial Oil",
+            "category": "Oil",
             "size": "4 oz.",
-            "price": 25
+            "price": 25,
+            "product_id": "9106f578-4246-4de9-b70d-76c6325c4e75"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
+            "name": "Hydration Booster Serum",
             "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "size": "1 oz.",
+            "price": 10,
+            "product_id": "a6c9ddaa-4f01-4580-9953-b1e57c56e9e0"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
+            "name": "Hydration Booster Serum",
             "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "size": "2 oz.",
+            "price": 15,
+            "product_id": "eb801f77-da35-41f2-a086-d83939f74a0d"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
+            "name": "Hydration Booster Serum",
             "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
             "size": "4 oz.",
-            "price": 25
+            "price": 25,
+            "product_id": "717e22ae-cf33-4048-8a1c-1cc91c399aab"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Revitalizing Tonic Mist",
+            "category": "Mist",
+            "size": "1 oz.",
+            "price": 10,
+            "product_id": "3686ff80-4346-42b4-b556-0d6456e18809"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Revitalizing Tonic Mist",
+            "category": "Mist",
+            "size": "2 oz.",
+            "price": 15,
+            "product_id": "1c5d0e10-1a2f-433b-9024-3b158fc74a3e"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
+            "name": "Revitalizing Tonic Mist",
+            "category": "Mist",
             "size": "4 oz.",
-            "price": 25
+            "price": 25,
+            "product_id": "1ec89647-ee0d-40ec-8de0-81f8a224b306"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Age-Defying Renewal Cream",
+            "category": "Cream",
+            "size": "1 oz.",
+            "price": 10,
+            "product_id": "6d41d65d-7769-4c19-90f7-3022703e329b"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Age-Defying Renewal Cream",
+            "category": "Cream",
+            "size": "2 oz.",
+            "price": 15,
+            "product_id": "30169943-e00f-49fe-be16-f22f8f45114d"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
+            "name": "Age-Defying Renewal Cream",
+            "category": "Cream",
             "size": "4 oz.",
-            "price": 25
+            "price": 25,
+            "product_id": "727ce39e-a277-45cc-a897-cbbfd8f07651"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Radiance Enhancing Mask",
+            "category": "Mask",
+            "size": "1 oz.",
+            "price": 10,
+            "product_id": "0bb4adac-1d09-4701-955e-cd961d123055"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Radiance Enhancing Mask",
+            "category": "Mask",
+            "size": "2 oz.",
+            "price": 15,
+            "product_id": "ef3e93bb-9e74-46d6-97d7-f305d8308663"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
+            "name": "Radiance Enhancing Mask",
+            "category": "Mask",
             "size": "4 oz.",
-            "price": 25
+            "price": 25,
+            "product_id": "10fef799-aaa0-4c3f-84fe-71c19ec8e31f"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Replenishing Eye Cream",
+            "category": "Eye Cream",
+            "size": "1 oz.",
+            "price": 10,
+            "product_id": "550f907b-264d-4a12-b271-8eb3f38b506d"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Replenishing Eye Cream",
+            "category": "Eye Cream",
+            "size": "2 oz.",
+            "price": 15,
+            "product_id": "cfff9433-7255-471e-b5c4-96a24960c362"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
+            "name": "Replenishing Eye Cream",
+            "category": "Eye Cream",
             "size": "4 oz.",
-            "price": 25
+            "price": 25,
+            "product_id": "3b59225c-152e-4c7c-bb52-b8defcacb695"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Firming Neck Serum",
+            "category": "Neck Serum",
+            "size": "1 oz.",
+            "price": 10,
+            "product_id": "780e6481-8255-4fd3-84d6-13573b496628"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Firming Neck Serum",
+            "category": "Neck Serum",
+            "size": "2 oz.",
+            "price": 15,
+            "product_id": "d77172e8-76b0-4f89-b977-13315637cd76"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
+            "name": "Firming Neck Serum",
+            "category": "Neck Serum",
             "size": "4 oz.",
-            "price": 25
+            "price": 25,
+            "product_id": "ad10d6a3-58e0-44fd-b7b2-2bf91de9bcc8"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Moisture Lock Balm",
+            "category": "Moisturizer",
+            "size": "1 oz.",
+            "price": 10,
+            "product_id": "86e12934-07ef-4926-93f8-ec6b0861243a"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Moisture Lock Balm",
+            "category": "Moisturizer",
+            "size": "2 oz.",
+            "price": 15,
+            "product_id": "e0fe3b4e-6410-425d-81a3-8f801a2a5ce1"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
+            "name": "Moisture Lock Balm",
+            "category": "Moisturizer",
             "size": "4 oz.",
-            "price": 25
+            "price": 25,
+            "product_id": "cddef004-fb42-4825-9857-793a90b9bd8c"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Luminous Skin Elixir",
+            "category": "Elixir",
+            "size": "1 oz.",
+            "price": 10,
+            "product_id": "6e76fe98-767d-495c-852b-465d563f49fa"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Luminous Skin Elixir",
+            "category": "Elixir",
+            "size": "2 oz.",
+            "price": 15,
+            "product_id": "bbb19b9e-bd4f-47bb-b33c-bf949a9bd97c"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
+            "name": "Luminous Skin Elixir",
+            "category": "Elixir",
             "size": "4 oz.",
-            "price": 25
+            "price": 25,
+            "product_id": "ea37de6e-4a75-4c92-b048-5abf7fcb9851"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Deep Hydration Toner",
+            "category": "Toner",
+            "size": "1 oz.",
+            "price": 10,
+            "product_id": "b58ae9a4-f8aa-4f21-be7a-b6adf30a963c"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Deep Hydration Toner",
+            "category": "Toner",
+            "size": "2 oz.",
+            "price": 15,
+            "product_id": "1930afee-494a-4bc7-962e-761dead4ddc0"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
+            "name": "Deep Hydration Toner",
+            "category": "Toner",
             "size": "4 oz.",
-            "price": 25
+            "price": 25,
+            "product_id": "037e4037-1195-4e91-bf5b-1844fa400006"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Youth Preserve Mask",
+            "category": "Mask",
+            "size": "1 oz.",
+            "price": 10,
+            "product_id": "b6acedce-d1bc-464c-a670-eacf21cba47f"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Youth Preserve Mask",
+            "category": "Mask",
+            "size": "2 oz.",
+            "price": 15,
+            "product_id": "86948908-1b17-4701-90a5-226d9618b706"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
+            "name": "Youth Preserve Mask",
+            "category": "Mask",
             "size": "4 oz.",
-            "price": 25
+            "price": 25,
+            "product_id": "b2b5918b-5e4a-496b-88b2-d85cde92c943"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
+            "name": "Vitamin C Brightening Serum",
             "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "size": "1 oz.",
+            "price": 10,
+            "product_id": "19719bf9-cff9-4b5b-91b0-ee20fa9fbb10"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
+            "name": "Vitamin C Brightening Serum",
             "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "size": "2 oz.",
+            "price": 15,
+            "product_id": "53cc04f3-5cbf-4525-b9f3-0dd2392f0165"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
+            "name": "Vitamin C Brightening Serum",
             "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
             "size": "4 oz.",
-            "price": 25
+            "price": 25,
+            "product_id": "fadeccbe-2592-4c13-b2e9-dbdd299a80fa"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Overnight Renewal Cream",
+            "category": "Night Cream",
+            "size": "1 oz.",
+            "price": 10,
+            "product_id": "8a09f0ee-44b0-404b-8cd4-b794146297f2"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Overnight Renewal Cream",
+            "category": "Night Cream",
+            "size": "2 oz.",
+            "price": 15,
+            "product_id": "dc06407f-09bc-4d41-9f19-103ab8133b8c"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
+            "name": "Overnight Renewal Cream",
+            "category": "Night Cream",
             "size": "4 oz.",
-            "price": 25
+            "price": 25,
+            "product_id": "cf0f5b65-4d5e-44b5-95ca-bcb970b327f3"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Gentle Exfoliating Cleanser",
+            "category": "Cleanser",
+            "size": "1 oz.",
+            "price": 10,
+            "product_id": "2b1aa779-f60f-4dc7-8043-c8a7508dc3b3"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Gentle Exfoliating Cleanser",
+            "category": "Cleanser",
+            "size": "2 oz.",
+            "price": 15,
+            "product_id": "6c615179-d265-4a13-8663-2d392114be0d"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
+            "name": "Gentle Exfoliating Cleanser",
+            "category": "Cleanser",
             "size": "4 oz.",
-            "price": 25
+            "price": 25,
+            "product_id": "25c6ad74-4991-491f-b601-54c6677f180c"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Hydrating Day Cream",
+            "category": "Day Cream",
+            "size": "1 oz.",
+            "price": 10,
+            "product_id": "17c0c96c-e368-4883-a0a6-55a81f777d8e"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Hydrating Day Cream",
+            "category": "Day Cream",
+            "size": "2 oz.",
+            "price": 15,
+            "product_id": "551a24ab-117c-4fb9-87d3-dcf7e6407330"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
+            "name": "Hydrating Day Cream",
+            "category": "Day Cream",
             "size": "4 oz.",
-            "price": 25
+            "price": 25,
+            "product_id": "e8d4ca7f-6d9c-495d-8302-15f56e9d4733"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Restorative Night Mask",
+            "category": "Mask",
+            "size": "1 oz.",
+            "price": 10,
+            "product_id": "9778dcf3-363d-4983-a6c2-fb0f97c80aa3"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Restorative Night Mask",
+            "category": "Mask",
+            "size": "2 oz.",
+            "price": 15,
+            "product_id": "c77833a1-62fd-4cdd-a8b2-b3cf3987a372"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
+            "name": "Restorative Night Mask",
+            "category": "Mask",
             "size": "4 oz.",
-            "price": 25
+            "price": 25,
+            "product_id": "90c6108c-0a58-4746-a548-053777f53f65"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
+            "name": "Clear Complexion Serum",
             "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "size": "1 oz.",
+            "price": 10,
+            "product_id": "cd0d56c1-a5af-4022-950a-6843d94db38a"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
+            "name": "Clear Complexion Serum",
             "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "size": "2 oz.",
+            "price": 15,
+            "product_id": "97671ec9-0484-4fff-b0a5-67ca726fe503"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
+            "name": "Clear Complexion Serum",
             "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
             "size": "4 oz.",
-            "price": 25
+            "price": 25,
+            "product_id": "bc280cf6-def0-4efc-a4a2-d37e3d446cbb"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Renewal Essence Oil",
+            "category": "Oil",
+            "size": "1 oz.",
+            "price": 10,
+            "product_id": "180a84fd-e20f-4cba-aae2-679db4dec03c"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Renewal Essence Oil",
+            "category": "Oil",
+            "size": "2 oz.",
+            "price": 15,
+            "product_id": "39b4b023-2c99-4b9c-84ba-637b75f1e639"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
+            "name": "Renewal Essence Oil",
+            "category": "Oil",
             "size": "4 oz.",
-            "price": 25
+            "price": 25,
+            "product_id": "c240a339-2668-42a5-80b8-4800b46ce3c4"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
+            "name": "Revitalizing Facial Serum",
             "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "size": "1 oz.",
+            "price": 10,
+            "product_id": "1c94a3d4-77f8-4714-93a4-62aa8b176f2d"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
+            "name": "Revitalizing Facial Serum",
             "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "size": "2 oz.",
+            "price": 15,
+            "product_id": "47d0d38c-0923-41f5-9aa6-4b84422d2091"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
+            "name": "Revitalizing Facial Serum",
             "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
             "size": "4 oz.",
-            "price": 25
+            "price": 25,
+            "product_id": "762df02b-ed27-48d7-b4e4-c0870708a3b9"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Anti-Fatigue Eye Cream",
+            "category": "Eye Cream",
+            "size": "1 oz.",
+            "price": 10,
+            "product_id": "4a8f9cee-c9be-4a0d-a876-1aceabe6cd24"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "name": "Anti-Fatigue Eye Cream",
+            "category": "Eye Cream",
+            "size": "2 oz.",
+            "price": 15,
+            "product_id": "706511ae-2b74-495e-91fe-f2c8df1c8795"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
-            "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
+            "name": "Anti-Fatigue Eye Cream",
+            "category": "Eye Cream",
             "size": "4 oz.",
-            "price": 25
+            "price": 25,
+            "product_id": "d2a8249f-1ce9-4a87-8db5-099e34ccfbf2"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
+            "name": "Radiance Booster Serum",
             "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "size": "1 oz.",
+            "price": 10,
+            "product_id": "35a3d556-7ff0-4620-a1a8-1d617abc7bed"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
+            "name": "Radiance Booster Serum",
             "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "size": "2 oz.",
+            "price": 15,
+            "product_id": "a0b0ac17-4e77-4cb1-b7ed-3556c02afbe0"
         }
     },
     {
         "data": {
-            "name": "Age-Defying Renewal Serum",
+            "name": "Radiance Booster Serum",
             "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
             "size": "4 oz.",
-            "price": 25
+            "price": 25,
+            "product_id": "6bbbd0d3-9201-4816-9d2c-84661e7d6c98"
         }
     },
     {
         "data": {
             "name": "Age-Defying Renewal Serum",
             "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "size": "1 oz.",
+            "price": 10,
+            "product_id": "d777ce37-c7af-433b-b974-b837dfb5b8fa"
         }
     },
     {
         "data": {
             "name": "Age-Defying Renewal Serum",
             "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
-            "size": "4 oz.",
-            "price": 25
+            "size": "2 oz.",
+            "price": 15,
+            "product_id": "baffdd40-a515-4046-af5b-61c0c3a81e21"
         }
     },
     {
         "data": {
             "name": "Age-Defying Renewal Serum",
             "category": "Serum",
-            "product_id": "b57a43b1-5d4a-4255-8246-a39c800aee7a",
             "size": "4 oz.",
-            "price": 25
+            "price": 25,
+            "product_id": "2edd8475-c384-47b4-9739-ce11a62cf7bc"
         }
     }
 ]
