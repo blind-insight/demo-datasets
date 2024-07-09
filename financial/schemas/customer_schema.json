@@ -1,0 +1,149 @@
+{
+    "type": "object",
+    "title": "Customer Data",
+    "required": [
+        "customer_id",
+        "birth_date",
+        "ssn",
+        "first_name",
+        "last_name",
+        "gender",
+        "birthplace",
+        "address",
+        "city",
+        "state",
+        "zip"
+    ],
+    "properties": {
+        "customer_id": {
+            "type": "string",
+            "default": "",
+            "format": "uuid",
+            "title": "The id Schema",
+            "examples": [
+                "b9c610cd-28a6-4636-ccb6-c7a0d2a4cb85"
+            ]
+        },
+        "birth_date": {
+            "type": "string",
+            "default": "",
+            "format": "date",
+            "title": "The birth_date Schema",
+            "examples": [
+                "2019-02-17"
+            ]
+        },
+        "ssn": {
+            "type": "string",
+            "default": "",
+            "title": "The ssn Schema",
+            "examples": [
+                "999-65-3251"
+            ]
+        },
+        "first_name": {
+            "type": "string",
+            "default": "",
+            "title": "The first_name Schema",
+            "examples": [
+                "Damon"
+            ]
+        },
+        "last_name": {
+            "type": "string",
+            "default": "",
+            "title": "The last_name Schema",
+            "examples": [
+                "Langosh"
+            ]
+        },
+        "marital_status": {
+            "type": "string",
+            "default": "",
+            "title": "The marital_status Schema",
+            "examples": [
+                "Married"
+            ]
+        },
+        "gender": {
+            "type": "string",
+            "default": "",
+            "title": "The gender Schema",
+            "examples": [
+                "M"
+            ]
+        },
+        "education_level": {
+            "type": "string",
+            "default": "",
+            "title": "The education_level Schema",
+            "examples": [
+                "High School"
+            ]
+        },
+        "birthplace": {
+            "type": "string",
+            "default": "",
+            "title": "The birthplace Schema",
+            "examples": [
+                "Middleborough  Massachusetts  US"
+            ]
+        },
+        "address": {
+            "type": "string",
+            "default": "",
+            "title": "The address Schema",
+            "examples": [
+                "620 Lynch Tunnel Apt 3"
+            ]
+        },
+        "street": {
+            "type": "string",
+            "default": "",
+            "title": "The street Schema",
+            "examples": [
+                "620 Lynch Tunnel Apt 3, Springfield, MA 95111"
+            ]
+        },
+        "city": {
+            "type": "string",
+            "default": "",
+            "title": "The city Schema",
+            "examples": [
+                "Springfield"
+            ]
+        },
+        "state": {
+            "type": "string",
+            "default": "",
+            "title": "The state Schema",
+            "examples": [
+                "MA"
+            ]
+        },
+        "zip": {
+            "type": "string",
+            "default": "",
+            "title": "The zip Schema",
+            "examples": [
+                "95111"
+            ]
+        },
+        "phone_number": {
+            "type": "string",
+            "default": "",
+            "title": "The phone_number Schema",
+            "examples": [
+                "657.550.3320"
+            ]
+        },
+        "email": {
+            "type": "string",
+            "default": "",
+            "title": "The email Schema",
+            "examples": [
+                "markporter@example.org"
+            ]
+        }
+    }
+}

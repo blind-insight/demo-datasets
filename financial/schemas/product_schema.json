@@ -1,0 +1,56 @@
+{
+    "type": "object",
+    "title": "Product Data",
+    "required": [
+        "product_id",
+        "name",
+        "size",
+        "price",
+        "category"
+    ],
+    "properties": {
+        "product_id": {
+            "type": "string",
+            "default": "",
+            "format": "uuid",
+            "title": "The id Schema",
+            "examples": [
+                "b9c610cd-28a6-4636-ccb6-c7a0d2a4cb85"
+            ]
+        },
+        "name": {
+            "type": "string",
+            "default": "",
+            "title": "The name Schema",
+            "examples": [
+                "Night creme"
+            ]
+        },
+        "size": {
+            "type": "string",
+            "default": "",
+            "title": "The size Schema",
+            "examples": [
+                "1 oz"
+            ]
+        },
+        "price": {
+            "type": "number",
+            "default": 0,
+            "minimum": 0,
+            "maximum": 99999,
+            "title": "The price Schema",
+            "examples": [
+                1104
+            ]
+        },
+        "category": {
+            "type": "string",
+            "default": "",
+            "title": "The category Schema",
+            "examples": [
+                "Toner"
+            ]
+        }
+    }
+}

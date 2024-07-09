@@ -1,0 +1,49 @@
+{
+    "type": "object",
+    "title": "Order Data",
+    "required": [
+        "order_id",
+        "customer_id",
+        "order_datetime",
+        "total_amount"
+    ],
+    "properties": {
+        "order_id": {
+            "type": "string",
+            "default": "",
+            "format": "uuid",
+            "title": "The id Schema",
+            "examples": [
+                "b9c610cd-28a6-4636-ccb6-c7a0d2a4cb85"
+            ]
+        },
+        "customer_id": {
+            "type": "string",
+            "default": "",
+            "format": "uuid",
+            "title": "The id Schema",
+            "examples": [
+                "b9c610cd-28a6-4636-ccb6-c7a0d2a4cb85"
+            ]
+        },
+        "order_datetime": {
+            "type": "string",
+            "default": "",
+            "format": "datetime",
+            "title": "The order_datetime Schema",
+            "examples": [
+                "2019-02-17"
+            ]
+        },
+        "total_amount": {
+            "type": "number",
+            "default": 0,
+            "minimum": 0,
+            "maximum": 99999,
+            "title": "The total_amount Schema",
+            "examples": [
+                1104
+            ]
+        }
+    }
+}
