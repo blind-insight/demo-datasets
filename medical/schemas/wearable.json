@@ -10,22 +10,20 @@
         "respiration_avg",
         "hr_avg",
         "hrv_avg",
-        "asleep_time",
-        "rem_time",
-        "deep_time",
-        "awake_time",
         "stress"
     ],
     "properties": {
         "id": {
-            "type": "string"
+            "type": "string",
+            "format": "uuid"
         },
         "person": {
             "type": "string",
             "format": "uuid"
         },
         "date": {
-            "type": "string"
+            "type": "string",
+            "format": "date-time"
         },
         "exercise_mins": {
             "type": "number",
@@ -56,18 +54,6 @@
             "type": "number",
             "minimum": 0,
             "maximum": 100
-        },
-        "asleep_time": {
-            "type": "string"
-        },
-        "rem_time": {
-            "type": "string"
-        },
-        "deep_time": {
-            "type": "string"
-        },
-        "awake_time": {
-            "type": "string"
         },
         "stress": {
             "type": "number",
