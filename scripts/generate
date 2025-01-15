@@ -1,0 +1,73 @@
+#!/usr/bin/env python3
+
+import json
+import random
+import sys
+
+import pytz
+from faker import Faker
+
+fake = Faker()
+
+
+def main(filename: str, count: int):
+    with open(filename, "r") as f:
+        schema = json.load(f)
+
+    properties = schema["properties"]
+    items = []
+    for _ in range(count):
+        items.append(generate_row(properties))
+
+    print(json.dumps(items, indent=2))
+
+
+def generate_row(properties: dict[str, dict]):
+    """
+    Generate a row of data based on the given schema properties.
+
+    :param properties: The properties of the schema.
+    :return: A row of data.
+    """
+    item = {}
+    for field_name, props in properties.items():
+        fmt = props.get("format")
+
+        # If the type is a string, we need to generate a value based on the
+        # format.
+        if props["type"] == "string":
+            # If the format is a known format, we can use the faker library to
+            # generate a value.
+            match fmt:
+                case "date-time":
+                    value = fake.date_time(tzinfo=pytz.UTC).isoformat(
+                        timespec="seconds"
+                    )
+                case "email":
+                    value = fake.email()
+                case "uuid":
+                    value = fake.uuid4()
+                case _:
+                    value = fake.word()
+        elif props["type"] == "integer":
+            min = props["minimum"]
+            max = props["maximum"]
+            value = random.randint(min, max)
+        elif props["type"] == "number":
+            min = props["minimum"]
+            max = props["maximum"]
+            precision = props["precision"]
+            value = round(random.uniform(min, max), precision)
+
+        item[field_name] = value
+
+    row = {"data": item}
+    return row
+
+
+if __name__ == "__main__":
+    if len(sys.argv) != 3:
+        print("Usage: generate <filename> <count>")
+        sys.exit(1)
+
+    main(sys.argv[1], int(sys.argv[2]))
