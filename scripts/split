@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 import json
 import os
@@ -27,7 +27,8 @@ def main(filename: str, dest: str):
     fname = os.path.basename(filename).split(".")[0]
 
     num = 0
-    for records in split(data, 100):
+    # for records in split(data, 100):
+    for records in split(data, 10):
         target = os.path.join(out, f"{fname}_{num}.json")
         print(f"{len(records)=} {target=}")
         num += 1
