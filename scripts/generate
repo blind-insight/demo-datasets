@@ -5,9 +5,10 @@ import random
 import sys
 
 import pytz
-from faker import Faker
 
-fake = Faker()
+sys.path.append(".")
+
+from fakes import fake  # noqa: E402
 
 
 def main(filename: str, count: int):
@@ -33,9 +34,14 @@ def generate_row(properties: dict[str, dict]):
     for field_name, props in properties.items():
         fmt = props.get("format")
 
+        fake_func = getattr(fake, field_name, None)
+
+        # If the field has a fake function, use it.
+        if fake_func is not None:
+            value = fake_func()
         # If the type is a string, we need to generate a value based on the
         # format.
-        if props["type"] == "string":
+        elif props["type"] == "string":
             # If the format is a known format, we can use the faker library to
             # generate a value.
             match fmt:

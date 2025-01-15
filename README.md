@@ -1,48 +1,48 @@
 # demo-datasets
 
-Demo datasets suitable for direct upload.
+Demo datasets suitable for direct upload to a Blind Insight instance. These datasets are designed to be used with the `blind` CLI for the purpose of testing, development, and demonstration.
 
 ## Structure
 
-- Each top-level directory represents a dataset name.
-- Each inner directory contains `data` and `schemas` directories and should be named as such:
+- `datasets/` is the top-level directory containing all datasets.
+- Each subdirectory therein represents a dataset name.
+- Each individual dataset contains `data` and `schemas` directories.
 
 ```bash
-medical
-├── data
-│   ├── condition_data.json
-│   ├── medication_data.json
-│   ├── patient_data.json
-│   ├── procedure_data.json
-│   └── wearable_data.json
-└── schemas
-    ├── condition.json
-    ├── medication.json
-    ├── patient.json
-    ├── procedure.json
-    └── wearable.json
-
-2 directories, 10 files
+datasets
+├── medical
+│   ├── data
+│   │   ├── condition_data.json
+│   │   ├── medication_data.json
+│   │   ├── patient_data.json
+│   │   ├── procedure_data.json
+│   │   └── wearable_data.json
+│   └── schemas
+│       ├── condition.json
+│       ├── medication.json
+│       ├── patient.json
+│       ├── procedure.json
+│       └── wearable.json
 ```
 
 Therefore you can use the `blind` CLI to easily create a dataset from the top-level directory name:
 
-Hint: For this example, the Organization slug is `example`.
+Hint: For this example, the Organization slug is `demo`.
 
 ```bash
-blind dataset create --organization example --name medical
+blind dataset create --organization demo --name medical
 ```
 
-And then for each dataset, you can create each schema
+And then for each dataset, you can create each schema:
 
 ```bash
-blind dataset --organization example create --dataset medical --name condition --file medical/schemas/condition.json
+blind dataset create -O demo -D medical -n condition -f datasets/medical/schemas/condition.json
 ```
 
 And then for each schema, you can upload the data:
 
 ```bash
-blind record create --organization example --dataset medical --schema condition -f medical/data/condition_data.json
+blind record create -O demo -D medical -n condition -f datasets/medical/data/condition_data.json
 ```
 
 Good luck and have fun!
@@ -62,13 +62,13 @@ pip install -r requirements.txt
 If you want to use the `generate` script to create a dataset, you can run it like this:
 
 ```bash
-python scripts/generate medical/schemas/wearable.json 100 > medical/data/wearable_data.json
+python scripts/generate datasets/medical/schemas/wearable.json 100 > datasets/medical/data/wearable_data.json
 ```
 
-This will generate 100 rows of data and save it to `medical/data/wearable_data.json`.
+This will generate 100 rows of data and save it to `datasets/medical/data/wearable_data.json`.
 
 You can then upload the data using the `blind` CLI:
 
 ```bash
-blind record create -O demo -D medical -n wearable -f medical/data/wearable_data.json
+blind record create -O demo -D medical -n wearable -f datasets/medical/data/wearable_data.json
 ```
