@@ -50,3 +50,25 @@ Good luck and have fun!
 ## Further Reading
 
 If you get stuck or need help, please checkout the [Getting Started](https://docs.blindinsight.io/getting-started/) guide on the official [Blind Insight documentation](https://docs.blindinsight.io/).
+
+## Scripts
+
+[!NOTE] You need to have the `faker` and `pytz` Python packages installed to use the `generate` script. They are not required to use the `blind` CLI. You may install the script dependencies with:
+
+```bash
+pip install -r requirements.txt
+```
+
+If you want to use the `generate` script to create a dataset, you can run it like this:
+
+```bash
+python scripts/generate medical/schemas/wearable.json 100 > medical/data/wearable_data.json
+```
+
+This will generate 100 rows of data and save it to `medical/data/wearable_data.json`.
+
+You can then upload the data using the `blind` CLI:
+
+```bash
+blind record create -O demo -D medical -n wearable -f medical/data/wearable_data.json
+```
