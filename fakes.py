@@ -7,7 +7,7 @@ fake = Faker()
 # Setup our fake datasets for record generation.
 @add_dataset(
     name="descriptions",
-    filename="fixtures/procedures.json",
+    filename="fixtures/medical.json",
     picker="description",
     root=".descriptions",
 )
@@ -20,7 +20,7 @@ fake.add_provider(ProcedureDescriptions)
 
 @add_dataset(
     name="codes",
-    filename="fixtures/procedures.json",
+    filename="fixtures/medical.json",
     picker="code",
     root=".codes",
 )
@@ -33,7 +33,7 @@ fake.add_provider(ProcedureCodes)
 
 @add_dataset(
     name="reason_codes",
-    filename="fixtures/procedures.json",
+    filename="fixtures/medical.json",
     picker="reason_code",
     root=".reason_codes",
 )
@@ -46,7 +46,7 @@ fake.add_provider(ReasonCodes)
 
 @add_dataset(
     name="reason_descriptions",
-    filename="fixtures/procedures.json",
+    filename="fixtures/medical.json",
     picker="reason_description",
     root=".reason_descriptions",
 )

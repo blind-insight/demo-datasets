@@ -21,7 +21,6 @@
     "properties": {
         "patient_id": {
             "type": "string",
-            "default": "",
             "format": "uuid",
             "title": "The id Schema",
             "examples": [
@@ -30,7 +29,6 @@
         },
         "birth_date": {
             "type": "string",
-            "default": "",
             "format": "date",
             "title": "The birth_date Schema",
             "examples": [
@@ -39,7 +37,6 @@
         },
         "death_date": {
             "type": "string",
-            "default": "",
             "format": "date",
             "title": "The death_date Schema",
             "examples": [
@@ -48,7 +45,6 @@
         },
         "ssn": {
             "type": "string",
-            "default": "",
             "title": "The ssn Schema",
             "examples": [
                 "999-65-3251"
@@ -56,7 +52,6 @@
         },
         "drivers": {
             "type": "string",
-            "default": "",
             "title": "The drivers Schema",
             "examples": [
                 ""
@@ -64,7 +59,6 @@
         },
         "passport": {
             "type": "string",
-            "default": "",
             "title": "The passport Schema",
             "examples": [
                 ""
@@ -72,7 +66,6 @@
         },
         "prefix": {
             "type": "string",
-            "default": "",
             "title": "The prefix Schema",
             "examples": [
                 "Mr."
@@ -80,7 +73,6 @@
         },
         "first_name": {
             "type": "string",
-            "default": "",
             "title": "The first_name Schema",
             "examples": [
                 "Damon"
@@ -88,7 +80,6 @@
         },
         "last_name": {
             "type": "string",
-            "default": "",
             "title": "The last_name Schema",
             "examples": [
                 "Langosh"
@@ -96,7 +87,6 @@
         },
         "suffix": {
             "type": "string",
-            "default": "",
             "title": "The suffix Schema",
             "examples": [
                 ""
@@ -104,7 +94,6 @@
         },
         "maiden_name": {
             "type": "string",
-            "default": "",
             "title": "The maiden_name Schema",
             "examples": [
                 ""
@@ -112,7 +101,6 @@
         },
         "marital_status": {
             "type": "string",
-            "default": "",
             "title": "The marital_status Schema",
             "examples": [
                 ""
@@ -120,7 +108,6 @@
         },
         "race": {
             "type": "string",
-            "default": "",
             "title": "The race Schema",
             "examples": [
                 "white"
@@ -128,7 +115,6 @@
         },
         "ethnicity": {
             "type": "string",
-            "default": "",
             "title": "The ethnicity Schema",
             "examples": [
                 "nonhispanic"
@@ -136,7 +122,6 @@
         },
         "gender": {
             "type": "string",
-            "default": "",
             "title": "The gender Schema",
             "examples": [
                 "M"
@@ -144,7 +129,6 @@
         },
         "birthplace": {
             "type": "string",
-            "default": "",
             "title": "The birthplace Schema",
             "examples": [
                 "Middleborough  Massachusetts  US"
@@ -152,7 +136,6 @@
         },
         "address": {
             "type": "string",
-            "default": "",
             "title": "The address Schema",
             "examples": [
                 "620 Lynch Tunnel Apt 0"
@@ -160,7 +143,6 @@
         },
         "city": {
             "type": "string",
-            "default": "",
             "title": "The city Schema",
             "examples": [
                 "Springfield"
@@ -168,7 +150,6 @@
         },
         "state": {
             "type": "string",
-            "default": "",
             "title": "The state Schema",
             "examples": [
                 "Massachusetts"
@@ -176,7 +157,6 @@
         },
         "zip": {
             "type": "number",
-            "default": 0,
             "minimum": 0,
             "maximum": 99999,
             "title": "The zip Schema",
