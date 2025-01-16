@@ -53,7 +53,7 @@ If you get stuck or need help, please checkout the [Getting Started](https://doc
 
 ## Scripts
 
-[!NOTE] You need to have the `faker` and `pytz` Python packages installed to use the `generate` script. They are not required to use the `blind` CLI. You may install the script dependencies with:
+[!NOTE] You need to have the `faker`, `faker-datasets` and `pytz` Python packages installed to use the `generate` script. They are not required to use the `blind` CLI. You may install the script dependencies with:
 
 ```bash
 pip install -r requirements.txt
