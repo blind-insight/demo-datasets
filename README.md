@@ -36,13 +36,13 @@ blind dataset create --organization demo --name medical
 And then for each dataset, you can create each schema:
 
 ```bash
-blind dataset create -O demo -D medical -n condition -f datasets/medical/schemas/condition.json
+blind schema create --organization demo --dataset medical --name condition --file datasets/medical/schemas/condition.json
 ```
 
 And then for each schema, you can upload the data:
 
 ```bash
-blind record create -O demo -D medical -n condition -f datasets/medical/data/condition_data.json
+blind record create --organization demo --dataset medical --schema condition --file datasets/medical/data/condition_data.json
 ```
 
 Good luck and have fun!
@@ -70,5 +70,5 @@ This will generate 100 rows of data and save it to `datasets/medical/data/wearab
 You can then upload the data using the `blind` CLI:
 
 ```bash
-blind record create -O demo -D medical -n wearable -f datasets/medical/data/wearable_data.json
+blind record create --organization demo --dataset medical --schema wearable --file datasets/medical/data/wearable_data.json
 ```
