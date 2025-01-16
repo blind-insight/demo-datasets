@@ -2,42 +2,42 @@
     {
         "data": {
             "name": "John Doe",
-            "account-number": 123,
+            "account_number": 123,
             "balance": 10.00
         }
     },
     {
         "data": {
             "name": "Jane Doe",
-            "account-number": 456,
+            "account_number": 456,
             "balance": 2.00
         }
     },
     {
         "data": {
             "name": "John Smith",
-            "account-number": 789,
+            "account_number": 789,
             "balance": 5.00
         }
     },
     {
         "data": {
             "name": "Jane Smith",
-            "account-number": 321,
+            "account_number": 321,
             "balance": 4.00
         }
     },
     {
         "data": {
             "name": "John Doe",
-            "account-number": 654,
+            "account_number": 654,
             "balance": 7.00
         }
     },
     {
         "data": {
             "name": "Jane Doe",
-            "account-number": 453,
+            "account_number": 453,
             "balance": 6.00
 
         }
@@ -45,63 +45,63 @@
     {
         "data": {
             "name": "John Smith",
-            "account-number": 188,
+            "account_number": 188,
             "balance": 5.50
         }
     },
     {
         "data": {
             "name": "Jane Smith",
-            "account-number": 156,
+            "account_number": 156,
             "balance": 6.30
         }
     },
     {
         "data": {
             "name": "John Doe",
-            "account-number": 256,
+            "account_number": 256,
             "balance": 7.15
         }
     },
     {
         "data": {
             "name": "Jane Doe",
-            "account-number": 101,
+            "account_number": 101,
             "balance": 10.60
         }
     },
     {
         "data": {
             "name": "John Smith",
-            "account-number": 186,
+            "account_number": 186,
             "balance": 9.80
         }
     },
     {
         "data": { 
             "name": "Jane Smith",
-            "account-number": 386,
+            "account_number": 386,
             "balance": 2.45
         }
     },
     {
         "data": { 
             "name": "John Doe",
-            "account-number": 777,
+            "account_number": 777,
             "balance": 2.88
         }
     },
     {
         "data": {
             "name": "Jane Doe",
-            "account-number": 987,
+            "account_number": 987,
             "balance": 4.40
         }
     },
     {
         "data": {
             "name": "John Smith",
-            "account-number": 444,
+            "account_number": 444,
             "balance": 3.98
         }
     }
