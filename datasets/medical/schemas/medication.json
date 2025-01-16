@@ -34,15 +34,21 @@
             "type": "string"
         },
         "base_cost": {
-            "type": "string"
+            "type": "number",
+            "minimum": 0,
+            "maximum": 10000,
+            "precision": 2
         },
         "dispenses": {
-            "type": "number",
+            "type": "integer",
             "minimum": 0,
             "maximum": 9999
         },
         "total_cost": {
-            "type": "string"
+            "type": "number",
+            "minimum": 0,
+            "maximum": 2197450,
+            "precision": 2
         },
         "reason_code": {
             "type": "string"
