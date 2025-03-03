@@ -26,37 +26,37 @@
             "format": "date-time"
         },
         "exercise_mins": {
-            "type": "number",
+            "type": "integer",
             "minimum": 0,
             "maximum": 1440
         },
         "steps": {
-            "type": "number",
+            "type": "integer",
             "minimum": 0,
             "maximum": 20000
         },
         "glucose_avg": {
-            "type": "number",
+            "type": "integer",
             "minimum": 0,
             "maximum": 20000
         },
         "respiration_avg": {
-            "type": "number",
+            "type": "integer",
             "minimum": 0,
             "maximum": 150
         },
         "hr_avg": {
-            "type": "number",
+            "type": "integer",
             "minimum": 0,
             "maximum": 100
         },
         "hrv_avg": {
-            "type": "number",
+            "type": "integer",
             "minimum": 0,
             "maximum": 100
         },
         "stress": {
-            "type": "number",
+            "type": "integer",
             "minimum": 0,
             "maximum": 10
         }
