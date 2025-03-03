@@ -1,3 +1,5 @@
 faker
 faker-datasets
+faker-edu
 pytz
+tablib

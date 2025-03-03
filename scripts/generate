@@ -27,21 +27,44 @@ def generate_row(properties: dict[str, dict]):
     """
     Generate a row of data based on the given schema properties.
 
+    For string type properties:
+    - If the property has a faker function name set in the `faker` key, use it.
+    - Otherwise, try to use the field name as the faker function name.
+
+    For integer type properties:
+    - If the property has a minimum and maximum set, generate a random integer
+      between the minimum and maximum.
+
+    For number type properties:
+    - If the property has a minimum and maximum set, generate a random number
+      between the minimum and maximum.
+    - If the property has a precision set, generate a random number with the
+      precision.
+
     :param properties: The properties of the schema.
     :return: A row of data.
     """
     item = {}
     for field_name, props in properties.items():
         fmt = props.get("format")
+        field_type = props["type"]
 
-        fake_func = getattr(fake, field_name, None)
+        # If the field has no enum, try to match to a fake function.
+        fake_func = None
+        if "enum" not in props and field_type == "string":
+            fake_func_name = props.get("faker")
+            if fake_func_name is not None:
+                fake_func = getattr(fake, fake_func_name, None)
+            else:
+                # Get faker function for the field.
+                fake_func = getattr(fake, field_name, None)
 
         # If the field has a fake function, use it.
         if fake_func is not None:
-            value = fake_func()
+            value = fake_func().title()
         # If the type is a string, we need to generate a value based on the
         # format.
-        elif props["type"] == "string":
+        elif field_type == "string":
             # If the format is a known format, we can use the faker library to
             # generate a value.
             match fmt:
@@ -54,16 +77,17 @@ def generate_row(properties: dict[str, dict]):
                 case "uuid":
                     value = fake.uuid4()
                 case _:
-                    value = fake.word()
-        elif props["type"] == "integer":
-            min = props["minimum"]
-            max = props["maximum"]
-            value = random.randint(min, max)
-        elif props["type"] == "number":
-            min = props["minimum"]
-            max = props["maximum"]
-            precision = props["precision"]
-            value = round(random.uniform(min, max), precision)
+                    # Pick a random value from the enum if it exists.
+                    if props.get("enum") is not None:
+                        value = random.choice(props["enum"])
+                    else:
+                        value = fake.word()
+        elif field_type == "integer":
+            value = random.randint(props["minimum"], props["maximum"])
+        elif field_type == "number":
+            value = round(
+                random.uniform(props["minimum"], props["maximum"]), props["precision"]
+            )
 
         item[field_name] = value
 
