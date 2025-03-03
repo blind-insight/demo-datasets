@@ -1,0 +1,271 @@
+{
+    "title": "Employee",
+    "description": "Schema for HR employee attrition data",
+    "type": "object",
+    "properties": {
+        "Age": {
+            "type": "integer",
+            "description": "Employee age",
+            "minimum": 18,
+            "maximum": 67
+        },
+        "Attrition": {
+            "type": "string",
+            "enum": [
+                "Yes",
+                "No"
+            ],
+            "description": "Whether the employee has left the company"
+        },
+        "BusinessTravel": {
+            "type": "string",
+            "enum": [
+                "Travel_Rarely",
+                "Travel_Frequently",
+                "Non-Travel"
+            ],
+            "description": "Frequency of business travel"
+        },
+        "DailyRate": {
+            "type": "number",
+            "minimum": 0,
+            "maximum": 10000,
+            "precision": 2,
+            "description": "Daily rate of pay"
+        },
+        "Department": {
+            "type": "string",
+            "description": "Department the employee works in",
+            "faker": "department_name"
+        },
+        "DistanceFromHome": {
+            "type": "number",
+            "minimum": 0,
+            "maximum": 1000,
+            "precision": 2,
+            "description": "Distance from home to work (in miles/km)"
+        },
+        "Education": {
+            "type": "integer",
+            "minimum": 1,
+            "maximum": 5,
+            "description": "Education level (1-5 scale)"
+        },
+        "EducationField": {
+            "type": "string",
+            "description": "Field of education",
+            "faker": "institution_name"
+        },
+        "EmployeeCount": {
+            "type": "integer",
+            "description": "Employee count (always 1 in this dataset)",
+            "minimum": 1,
+            "maximum": 99,
+            "default": 1
+        },
+        "EmployeeNumber": {
+            "type": "integer",
+            "minimum": 1111,
+            "maximum": 9999,
+            "description": "Unique employee identifier"
+        },
+        "EnvironmentSatisfaction": {
+            "type": "integer",
+            "minimum": 1,
+            "maximum": 4,
+            "description": "Satisfaction with work environment (1-4 scale)"
+        },
+        "Gender": {
+            "type": "string",
+            "enum": [
+                "Male",
+                "Female"
+            ],
+            "description": "Employee gender"
+        },
+        "HourlyRate": {
+            "type": "number",
+            "minimum": 0,
+            "maximum": 1000,
+            "precision": 2,
+            "description": "Hourly rate of pay"
+        },
+        "JobInvolvement": {
+            "type": "integer",
+            "minimum": 1,
+            "maximum": 4,
+            "description": "Job involvement rating (1-4 scale)"
+        },
+        "JobLevel": {
+            "type": "integer",
+            "minimum": 1,
+            "maximum": 12,
+            "description": "Job level within the organization"
+        },
+        "JobRole": {
+            "type": "string",
+            "description": "Role title within the organization",
+            "faker": "job"
+        },
+        "JobSatisfaction": {
+            "type": "integer",
+            "minimum": 1,
+            "maximum": 4,
+            "description": "Job satisfaction rating (1-4 scale)"
+        },
+        "MaritalStatus": {
+            "type": "string",
+            "enum": [
+                "Single",
+                "Married",
+                "Divorced"
+            ],
+            "description": "Marital status"
+        },
+        "MonthlyIncome": {
+            "type": "number",
+            "minimum": 0,
+            "maximum": 400000,
+            "precision": 2,
+            "description": "Monthly salary"
+        },
+        "MonthlyRate": {
+            "type": "number",
+            "minimum": 0,
+            "maximum": 400000,
+            "precision": 2,
+            "description": "Monthly rate"
+        },
+        "NumCompaniesWorked": {
+            "type": "integer",
+            "minimum": 0,
+            "maximum": 10,
+            "description": "Number of previous employers"
+        },
+        "Over18": {
+            "type": "string",
+            "enum": [
+                "Y"
+            ],
+            "description": "Whether employee is over 18 (always Y in this dataset)"
+        },
+        "OverTime": {
+            "type": "string",
+            "enum": [
+                "Yes",
+                "No"
+            ],
+            "description": "Whether employee works overtime"
+        },
+        "PercentSalaryHike": {
+            "type": "number",
+            "minimum": 0,
+            "maximum": 100,
+            "precision": 2,
+            "description": "Percentage of last salary increase"
+        },
+        "PerformanceRating": {
+            "type": "integer",
+            "minimum": 1,
+            "maximum": 4,
+            "description": "Performance rating (1-4 scale)"
+        },
+        "RelationshipSatisfaction": {
+            "type": "integer",
+            "minimum": 1,
+            "maximum": 4,
+            "description": "Relationship satisfaction rating (1-4 scale)"
+        },
+        "StandardHours": {
+            "type": "integer",
+            "minimum": 0,
+            "maximum": 80,
+            "default": 80,
+            "description": "Standard hours (always 80 in this dataset)"
+        },
+        "StockOptionLevel": {
+            "type": "integer",
+            "minimum": 0,
+            "maximum": 3,
+            "description": "Stock option level (0-3 scale)"
+        },
+        "TotalWorkingYears": {
+            "type": "integer",
+            "minimum": 0,
+            "maximum": 30,
+            "description": "Total years of work experience"
+        },
+        "TrainingTimesLastYear": {
+            "type": "integer",
+            "minimum": 0,
+            "maximum": 10,
+            "description": "Number of training sessions attended last year"
+        },
+        "WorkLifeBalance": {
+            "type": "integer",
+            "minimum": 1,
+            "maximum": 4,
+            "description": "Work-life balance rating (1-4 scale)"
+        },
+        "YearsAtCompany": {
+            "type": "integer",
+            "minimum": 0,
+            "maximum": 25,
+            "description": "Years employed at the company"
+        },
+        "YearsInCurrentRole": {
+            "type": "integer",
+            "minimum": 0,
+            "maximum": 10,
+            "description": "Years in current role"
+        },
+        "YearsSinceLastPromotion": {
+            "type": "integer",
+            "minimum": 0,
+            "maximum": 10,
+            "description": "Years since last promotion"
+        },
+        "YearsWithCurrManager": {
+            "type": "integer",
+            "minimum": 0,
+            "maximum": 10,
+            "description": "Years with current manager"
+        }
+    },
+    "required": [
+        "Age",
+        "Attrition",
+        "BusinessTravel",
+        "DailyRate",
+        "Department",
+        "DistanceFromHome",
+        "Education",
+        "EducationField",
+        "EmployeeNumber",
+        "EnvironmentSatisfaction",
+        "Gender",
+        "HourlyRate",
+        "JobInvolvement",
+        "JobLevel",
+        "JobRole",
+        "JobSatisfaction",
+        "MaritalStatus",
+        "MonthlyIncome",
+        "MonthlyRate",
+        "NumCompaniesWorked",
+        "Over18",
+        "OverTime",
+        "PercentSalaryHike",
+        "PerformanceRating",
+        "RelationshipSatisfaction",
+        "StandardHours",
+        "StockOptionLevel",
+        "TotalWorkingYears",
+        "TrainingTimesLastYear",
+        "WorkLifeBalance",
+        "YearsAtCompany",
+        "YearsInCurrentRole",
+        "YearsSinceLastPromotion",
+        "YearsWithCurrManager"
+    ]
+}
