@@ -1,7 +1,9 @@
+import faker_edu
 from faker import Faker
 from faker_datasets import Provider, add_dataset
 
 fake = Faker()
+fake.add_provider(faker_edu.Provider)
 
 
 # Setup our fake datasets for record generation.
