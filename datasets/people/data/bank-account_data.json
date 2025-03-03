@@ -1,108 +1,107 @@
 [
-    {
-        "data": {
-            "name": "John Doe",
-            "account_number": 123,
-            "balance": 10.00
-        }
-    },
-    {
-        "data": {
-            "name": "Jane Doe",
-            "account_number": 456,
-            "balance": 2.00
-        }
-    },
-    {
-        "data": {
-            "name": "John Smith",
-            "account_number": 789,
-            "balance": 5.00
-        }
-    },
-    {
-        "data": {
-            "name": "Jane Smith",
-            "account_number": 321,
-            "balance": 4.00
-        }
-    },
-    {
-        "data": {
-            "name": "John Doe",
-            "account_number": 654,
-            "balance": 7.00
-        }
-    },
-    {
-        "data": {
-            "name": "Jane Doe",
-            "account_number": 453,
-            "balance": 6.00
-
-        }
-    },
-    {
-        "data": {
-            "name": "John Smith",
-            "account_number": 188,
-            "balance": 5.50
-        }
-    },
-    {
-        "data": {
-            "name": "Jane Smith",
-            "account_number": 156,
-            "balance": 6.30
-        }
-    },
-    {
-        "data": {
-            "name": "John Doe",
-            "account_number": 256,
-            "balance": 7.15
-        }
-    },
-    {
-        "data": {
-            "name": "Jane Doe",
-            "account_number": 101,
-            "balance": 10.60
-        }
-    },
-    {
-        "data": {
-            "name": "John Smith",
-            "account_number": 186,
-            "balance": 9.80
-        }
-    },
-    {
-        "data": { 
-            "name": "Jane Smith",
-            "account_number": 386,
-            "balance": 2.45
-        }
-    },
-    {
-        "data": { 
-            "name": "John Doe",
-            "account_number": 777,
-            "balance": 2.88
-        }
-    },
-    {
-        "data": {
-            "name": "Jane Doe",
-            "account_number": 987,
-            "balance": 4.40
-        }
-    },
-    {
-        "data": {
-            "name": "John Smith",
-            "account_number": 444,
-            "balance": 3.98
-        }
+  {
+    "data": {
+      "name": "Laura Whitaker",
+      "account_number": 478,
+      "balance": 74.71
     }
+  },
+  {
+    "data": {
+      "name": "Ryan Morris",
+      "account_number": 204,
+      "balance": 97.02
+    }
+  },
+  {
+    "data": {
+      "name": "Melanie Brewer",
+      "account_number": 215,
+      "balance": 35.14
+    }
+  },
+  {
+    "data": {
+      "name": "Ana Howard",
+      "account_number": 113,
+      "balance": 6.14
+    }
+  },
+  {
+    "data": {
+      "name": "Mallory Johnson",
+      "account_number": 483,
+      "balance": 83.41
+    }
+  },
+  {
+    "data": {
+      "name": "Kayla Wood",
+      "account_number": 817,
+      "balance": 84.69
+    }
+  },
+  {
+    "data": {
+      "name": "George Allen",
+      "account_number": 440,
+      "balance": 40.97
+    }
+  },
+  {
+    "data": {
+      "name": "Michele Mueller",
+      "account_number": 731,
+      "balance": 48.22
+    }
+  },
+  {
+    "data": {
+      "name": "Janet Mcguire",
+      "account_number": 884,
+      "balance": 51.2
+    }
+  },
+  {
+    "data": {
+      "name": "Mary White",
+      "account_number": 148,
+      "balance": 38.55
+    }
+  },
+  {
+    "data": {
+      "name": "Ricky Torres",
+      "account_number": 613,
+      "balance": 27.94
+    }
+  },
+  {
+    "data": {
+      "name": "Lisa Reyes",
+      "account_number": 616,
+      "balance": 56.83
+    }
+  },
+  {
+    "data": {
+      "name": "Gary Hughes",
+      "account_number": 156,
+      "balance": 9.41
+    }
+  },
+  {
+    "data": {
+      "name": "Donna Hernandez",
+      "account_number": 656,
+      "balance": 26.83
+    }
+  },
+  {
+    "data": {
+      "name": "Steven Scott",
+      "account_number": 170,
+      "balance": 11.55
+    }
+  }
 ]
