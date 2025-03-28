@@ -1,0 +1,54 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Payment Schema",
+  "description": "Schema for insurance payment records",
+  "type": "object",
+  "properties": {
+    "PaymentID": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 1000000,
+      "faker": "unique.random_int",
+      "description": "Unique identifier for the payment"
+    },
+    "PolicyID": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 1000000,
+      "faker": "unique.random_int",
+      "description": "Foreign key reference to Policies table"
+    },
+    "PaymentDate": {
+      "type": "string",
+      "format": "date",
+      "faker": "past_date",
+      "faker_args": "-5y",
+      "description": "Date when the payment was made in YYYY-MM-DD format"
+    },
+    "PaymentAmount": {
+      "type": "number",
+      "minimum": 50,
+      "maximum": 10000,
+      "precision": 2,
+      "description": "Amount of the payment"
+    },
+    "PaymentMethod": {
+      "type": "string",
+      "enum": ["Credit Card", "Bank Transfer", "Cash"],
+      "description": "Method used for payment"
+    },
+    "PaymentStatus": {
+      "type": "string",
+      "enum": ["Successful", "Pending", "Failed"],
+      "description": "Current status of the payment"
+    }
+  },
+  "required": [
+    "PaymentID",
+    "PolicyID",
+    "PaymentDate",
+    "PaymentAmount",
+    "PaymentMethod",
+    "PaymentStatus"
+  ]
+}

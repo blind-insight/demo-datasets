@@ -1,0 +1,60 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Claim Schema",
+  "description": "Schema for insurance claim records",
+  "type": "object",
+  "properties": {
+    "ClaimID": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 1000000,
+      "faker": "unique.random_int",
+      "description": "Unique identifier for the claim"
+    },
+    "PolicyID": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 1000000,
+      "faker": "unique.random_int",
+      "description": "Foreign key reference to Policies table"
+    },
+    "ClaimDate": {
+      "type": "string",
+      "format": "date",
+      "faker": "past_date",
+      "faker_args": "-30d",
+      "description": "Date when the claim was filed in YYYY-MM-DD format"
+    },
+    "ClaimAmount": {
+      "type": "number",
+      "minimum": 100,
+      "maximum": 1000000,
+      "precision": 2,
+      "description": "Amount being claimed"
+    },
+    "ClaimStatus": {
+      "type": "string",
+      "enum": ["Pending", "Approved", "Denied"],
+      "description": "Current status of the claim"
+    },
+    "Description": {
+      "type": "string",
+      "faker": "paragraph",
+      "description": "Detailed description of the claim"
+    },
+    "FiledBy": {
+      "type": "string",
+      "enum": ["Customer", "Agent"],
+      "description": "Entity who filed the claim"
+    }
+  },
+  "required": [
+    "ClaimID",
+    "PolicyID",
+    "ClaimDate",
+    "ClaimAmount",
+    "ClaimStatus",
+    "Description",
+    "FiledBy"
+  ]
+}

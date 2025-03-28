@@ -1,0 +1,78 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Policy Schema",
+  "description": "Schema for insurance policy records",
+  "type": "object",
+  "properties": {
+    "PolicyID": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 1000000,
+      "faker": "unique.random_int",
+      "description": "Unique identifier for the policy"
+    },
+    "PolicyNumber": {
+      "type": "string",
+      "faker": "unique.passport_number",
+      "description": "Formatted policy number"
+    },
+    "PolicyType": {
+      "type": "string",
+      "enum": ["Auto", "Health", "Life", "Home"],
+      "description": "Type of insurance policy"
+    },
+    "CoverageAmount": {
+      "type": "number",
+      "minimum": 10000,
+      "maximum": 10000000,
+      "precision": 2,
+      "description": "Total coverage amount of the policy"
+    },
+    "StartDate": {
+      "type": "string",
+      "format": "date",
+      "faker": "past_date",
+      "faker_args": "-10y",
+      "description": "Policy start date in YYYY-MM-DD format"
+    },
+    "EndDate": {
+      "type": "string",
+      "format": "date",
+      "faker": "future_date",
+      "faker_args": "+10y",
+      "description": "Policy end date in YYYY-MM-DD format"
+    },
+    "PremiumAmount": {
+      "type": "number",
+      "minimum": 100,
+      "maximum": 50000,
+      "precision": 2,
+      "description": "Monthly premium amount"
+    },
+    "CustomerID": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 1000000,
+      "faker": "unique.random_int",
+      "description": "Foreign key reference to Customers table"
+    },
+    "AgentID": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 10000,
+      "faker": "unique.random_int",
+      "description": "Foreign key reference to Agents table"
+    }
+  },
+  "required": [
+    "PolicyID",
+    "PolicyNumber",
+    "PolicyType",
+    "CoverageAmount",
+    "StartDate",
+    "EndDate",
+    "PremiumAmount",
+    "CustomerID",
+    "AgentID"
+  ]
+}
