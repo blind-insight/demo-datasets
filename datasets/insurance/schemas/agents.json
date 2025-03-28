@@ -1,0 +1,50 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Agent Schema",
+  "description": "Schema for insurance agent records",
+  "type": "object",
+  "properties": {
+    "AgentID": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 10000,
+      "faker": "unique.random_int",
+      "description": "Unique identifier for the agent"
+    },
+    "FirstName": {
+      "type": "string",
+      "faker": "first_name",
+      "description": "Agent's first name"
+    },
+    "LastName": {
+      "type": "string",
+      "faker": "last_name",
+      "description": "Agent's last name"
+    },
+    "PhoneNumber": {
+      "type": "string",
+      "pattern": "^\\+?[1-9]\\d{1,14}$",
+      "faker": "unique.phone_number",
+      "description": "Agent's contact phone number in E.164 format"
+    },
+    "EmailAddress": {
+      "type": "string",
+      "format": "email",
+      "faker": "email",
+      "description": "Agent's email address"
+    },
+    "OfficeLocation": {
+      "type": "string",
+      "faker": "street_address",
+      "description": "Location of the agent's office"
+    }
+  },
+  "required": [
+    "AgentID",
+    "FirstName",
+    "LastName",
+    "PhoneNumber",
+    "EmailAddress",
+    "OfficeLocation"
+  ]
+}
