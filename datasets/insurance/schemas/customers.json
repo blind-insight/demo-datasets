@@ -1,0 +1,71 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Customer Schema",
+  "description": "Schema for customer records in the insurance database",
+  "type": "object",
+  "properties": {
+    "CustomerID": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 1000000,
+      "faker": "unique.random_int",
+      "description": "Unique identifier for the customer"
+    },
+    "FirstName": {
+      "type": "string",
+      "faker": "first_name",
+      "description": "Customer's first name"
+    },
+    "LastName": {
+      "type": "string",
+      "faker": "last_name",
+      "description": "Customer's last name"
+    },
+    "DateOfBirth": {
+      "type": "string",
+      "format": "birthdate",
+      "description": "Customer's date of birth in YYYY-MM-DD format"
+    },
+    "Gender": {
+      "type": "string",
+      "enum": ["Male", "Female", "Other"],
+      "description": "Customer's gender"
+    },
+    "PhoneNumber": {
+      "type": "string",
+      "pattern": "^\\+?[1-9]\\d{1,14}$",
+      "faker": "unique.phone_number",
+      "description": "Customer's phone number in E.164 format"
+    },
+    "EmailAddress": {
+      "type": "string",
+      "format": "email",
+      "faker": "unique.email",
+      "description": "Customer's email address"
+    },
+    "Address": {
+      "type": "string",
+      "faker": "address",
+      "description": "Customer's physical address"
+    },
+    "Occupation": {
+      "type": "string",
+      "faker": "job",
+      "description": "Customer's current occupation"
+    },
+    "AnnualIncome": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 500000,
+      "precision": 2,
+      "description": "Customer's annual income in currency units"
+    }
+  },
+  "required": [
+    "CustomerID",
+    "FirstName",
+    "LastName",
+    "DateOfBirth",
+    "EmailAddress"
+  ]
+}

@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+import datetime
 import json
 import random
 import sys
@@ -9,6 +10,9 @@ import pytz
 sys.path.append(".")
 
 from fakes import fake  # noqa: E402
+
+#
+fake_unique = fake.unique
 
 
 def main(filename: str, count: int):
@@ -51,23 +55,49 @@ def generate_row(properties: dict[str, dict]):
 
         # If the field has no enum, try to match to a fake function.
         fake_func = None
-        if "enum" not in props and field_type == "string":
+        faker_args = None
+        if "enum" not in props:
             fake_func_name = props.get("faker")
+            faker_args = props.get("faker_args")
+            faker = fake
+
             if fake_func_name is not None:
-                fake_func = getattr(fake, fake_func_name, None)
+                # If the fake function name starts with "unique.", use the
+                # unique faker function.
+                if fake_func_name.startswith("unique."):
+                    fake_func_name = fake_func_name.replace("unique.", "")
+                    faker = fake_unique
+
+                # Get the faker function for specific faker function name.
+                fake_func = getattr(faker, fake_func_name, None)
             else:
                 # Get faker function for the field.
-                fake_func = getattr(fake, field_name, None)
+                fake_func = getattr(faker, field_name, None)
 
         # If the field has a fake function, use it.
         if fake_func is not None:
-            value = fake_func().title()
+            # If the faker function has arguments, pass them.
+            if faker_args is not None:
+                value = fake_func(faker_args)
+            else:
+                value = fake_func()
+
+            # If the value is a datetime, convert it to a string.
+            if isinstance(value, (datetime.date, datetime.datetime)):
+                value = value.isoformat()
+
         # If the type is a string, we need to generate a value based on the
         # format.
         elif field_type == "string":
             # If the format is a known format, we can use the faker library to
             # generate a value.
             match fmt:
+                case "birthdate":
+                    value = fake.date_of_birth(
+                        minimum_age=18, maximum_age=100
+                    ).isoformat()
+                case "date":
+                    value = fake.date().isoformat()
                 case "date-time":
                     value = fake.date_time(tzinfo=pytz.UTC).isoformat(
                         timespec="seconds"
@@ -83,7 +113,7 @@ def generate_row(properties: dict[str, dict]):
                     else:
                         value = fake.word()
         elif field_type == "integer":
-            value = random.randint(props["minimum"], props["maximum"])
+            value = fake.random_int(min=props["minimum"], max=props["maximum"])
         elif field_type == "number":
             value = round(
                 random.uniform(props["minimum"], props["maximum"]), props["precision"]
