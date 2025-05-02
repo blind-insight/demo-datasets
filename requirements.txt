@@ -2,4 +2,4 @@ faker
 faker-datasets
 faker-edu
 pytz
-tablib
+tablib==0.11.5
