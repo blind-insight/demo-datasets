@@ -1,0 +1,47 @@
+{
+  "type": "object",
+  "required": [],
+  "properties": {
+    "day": {
+      "type": "integer",
+      "maximum": 31,
+      "minimum": 1
+    },
+    "year": {
+      "type": "integer",
+      "maximum": 2025,
+      "minimum": 2015
+    },
+    "month": {
+      "type": "integer",
+      "maximum": 12,
+      "minimum": 1
+    },
+    "is_active": {
+      "type": "string"
+    },
+    "report_id": {
+      "type": "string"
+    },
+    "fraud_type": {
+      "type": "string"
+    },
+    "risk_level": {
+      "type": "integer",
+      "maximum": 100,
+      "minimum": 0
+    },
+    "reported_iban": {
+      "type": "string"
+    },
+    "reporting_bank_id": {
+      "type": "string"
+    },
+    "account_jurisdiction": {
+      "type": "string"
+    },
+    "reporting_jurisdiction": {
+      "type": "string"
+    }
+  }
+}
